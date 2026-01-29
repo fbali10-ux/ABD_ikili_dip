@@ -3,14 +3,14 @@
     {
       "Sembol": "ERIE",
       "Dip_Tarih": "2026-01-27",
-      "Dipten_Sonra_%": 3.63,
-      "Son_Kapanış": 282.38
+      "Dipten_Sonra_%": 3.64,
+      "Son_Kapanış": 282.41
     },
     {
       "Sembol": "T",
       "Dip_Tarih": "2026-01-27",
-      "Dipten_Sonra_%": 8.33,
-      "Son_Kapanış": 24.92
+      "Dipten_Sonra_%": 9.13,
+      "Son_Kapanış": 25.1
     },
     {
       "Sembol": "TME",
@@ -21,15 +21,15 @@
     {
       "Sembol": "LI",
       "Dip_Tarih": "2026-01-20",
-      "Dipten_Sonra_%": 9.54,
-      "Son_Kapanış": 17.23
+      "Dipten_Sonra_%": 9.57,
+      "Son_Kapanış": 17.24
     },
     {
       "Sembol": "SNN",
       "Dip_Tarih": "2026-01-13",
-      "Dipten_Sonra_%": 5.24,
-      "Son_Kapanış": 33.57
+      "Dipten_Sonra_%": 5.36,
+      "Son_Kapanış": 33.61
     }
   ],
-  "last_run": "2026-01-29 19:39:57"
+  "last_run": "2026-01-29 20:38:39"
 }
