@@ -3,33 +3,33 @@
     {
       "Sembol": "CHTR",
       "Dip_Tarih": "2026-01-28",
-      "Dipten_Sonra_%": 12.75,
-      "Son_Kapanış": 206.12
-    },
-    {
-      "Sembol": "ERIE",
-      "Dip_Tarih": "2026-01-27",
-      "Dipten_Sonra_%": 3.86,
-      "Son_Kapanış": 283.01
+      "Dipten_Sonra_%": 16.78,
+      "Son_Kapanış": 213.48
     },
     {
       "Sembol": "T",
       "Dip_Tarih": "2026-01-27",
-      "Dipten_Sonra_%": 13.96,
-      "Son_Kapanış": 26.21
+      "Dipten_Sonra_%": 15.33,
+      "Son_Kapanış": 26.52
     },
     {
-      "Sembol": "KHC",
-      "Dip_Tarih": "2026-01-21",
-      "Dipten_Sonra_%": 5.98,
-      "Son_Kapanış": 23.74
+      "Sembol": "ERIE",
+      "Dip_Tarih": "2026-01-27",
+      "Dipten_Sonra_%": 4.2,
+      "Son_Kapanış": 283.95
+    },
+    {
+      "Sembol": "MA",
+      "Dip_Tarih": "2026-01-27",
+      "Dipten_Sonra_%": 5.62,
+      "Son_Kapanış": 549.66
     },
     {
       "Sembol": "TMUS",
       "Dip_Tarih": "2026-01-21",
-      "Dipten_Sonra_%": 7.41,
-      "Son_Kapanış": 197.21
+      "Dipten_Sonra_%": 6.5,
+      "Son_Kapanış": 195.52
     }
   ],
-  "last_run": "2026-02-02 14:13:01"
+  "last_run": "2026-02-02 15:48:07"
 }
