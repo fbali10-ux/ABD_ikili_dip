@@ -3,33 +3,33 @@
     {
       "Sembol": "BRK-A",
       "Dip_Tarih": "2026-01-28",
-      "Dipten_Sonra_%": 3.88,
-      "Son_Kapanış": 737001.06
+      "Dipten_Sonra_%": 4.51,
+      "Son_Kapanış": 741500.0
     },
     {
       "Sembol": "BRK-B",
       "Dip_Tarih": "2026-01-28",
-      "Dipten_Sonra_%": 3.81,
-      "Son_Kapanış": 491.55
+      "Dipten_Sonra_%": 4.27,
+      "Son_Kapanış": 493.7
     },
     {
       "Sembol": "CHTR",
       "Dip_Tarih": "2026-01-28",
-      "Dipten_Sonra_%": 16.69,
-      "Son_Kapanış": 213.32
-    },
-    {
-      "Sembol": "T",
-      "Dip_Tarih": "2026-01-27",
-      "Dipten_Sonra_%": 16.11,
-      "Son_Kapanış": 26.7
+      "Dipten_Sonra_%": 15.38,
+      "Son_Kapanış": 210.93
     },
     {
       "Sembol": "MA",
       "Dip_Tarih": "2026-01-27",
-      "Dipten_Sonra_%": 7.12,
-      "Son_Kapanış": 557.48
+      "Dipten_Sonra_%": 6.88,
+      "Son_Kapanış": 556.24
+    },
+    {
+      "Sembol": "T",
+      "Dip_Tarih": "2026-01-27",
+      "Dipten_Sonra_%": 16.17,
+      "Son_Kapanış": 26.72
     }
   ],
-  "last_run": "2026-02-03 17:02:35"
+  "last_run": "2026-02-03 18:04:03"
 }
