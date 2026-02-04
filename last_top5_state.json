@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "SBAC",
+      "Dip_Tarih": "2026-02-03",
+      "Dipten_Sonra_%": 3.82,
+      "Son_Kapanış": 186.51
+    },
+    {
       "Sembol": "OTIS",
       "Dip_Tarih": "2026-01-30",
-      "Dipten_Sonra_%": 5.79,
-      "Son_Kapanış": 90.37
+      "Dipten_Sonra_%": 5.37,
+      "Son_Kapanış": 90.01
     },
     {
       "Sembol": "BBY",
       "Dip_Tarih": "2026-01-30",
-      "Dipten_Sonra_%": 4.26,
-      "Son_Kapanış": 67.88
+      "Dipten_Sonra_%": 4.92,
+      "Son_Kapanış": 68.3
     },
     {
-      "Sembol": "XYL",
+      "Sembol": "ESS",
       "Dip_Tarih": "2026-01-28",
-      "Dipten_Sonra_%": 3.41,
-      "Son_Kapanış": 140.14
+      "Dipten_Sonra_%": 3.05,
+      "Son_Kapanış": 252.96
     },
     {
-      "Sembol": "CDW",
+      "Sembol": "ZBH",
       "Dip_Tarih": "2026-01-28",
-      "Dipten_Sonra_%": 11.09,
-      "Son_Kapanış": 138.55
-    },
-    {
-      "Sembol": "CHTR",
-      "Dip_Tarih": "2026-01-28",
-      "Dipten_Sonra_%": 22.78,
-      "Son_Kapanış": 224.45
+      "Dipten_Sonra_%": 3.65,
+      "Son_Kapanış": 88.84
     }
   ],
-  "last_run": "2026-02-04 18:59:55"
+  "last_run": "2026-02-04 19:48:00"
 }
