@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "DDOG",
+      "Sembol": "GEN",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 23.42,
-      "Son_Kapanış": 131.73
+      "Dipten_Sonra_%": 11.21,
+      "Son_Kapanış": 24.94
+    },
+    {
+      "Sembol": "AVB",
+      "Dip_Tarih": "2026-02-05",
+      "Dipten_Sonra_%": 4.39,
+      "Son_Kapanış": 177.15
     },
     {
       "Sembol": "SONY",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 9.11,
-      "Son_Kapanış": 23.17
+      "Dipten_Sonra_%": 8.71,
+      "Son_Kapanış": 23.09
+    },
+    {
+      "Sembol": "DDOG",
+      "Dip_Tarih": "2026-02-05",
+      "Dipten_Sonra_%": 23.75,
+      "Son_Kapanış": 132.07
     },
     {
       "Sembol": "RBLX",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 21.57,
-      "Son_Kapanış": 73.64
-    },
-    {
-      "Sembol": "VST",
-      "Dip_Tarih": "2026-02-04",
-      "Dipten_Sonra_%": 10.55,
-      "Son_Kapanış": 157.55
-    },
-    {
-      "Sembol": "NIO",
-      "Dip_Tarih": "2026-02-04",
-      "Dipten_Sonra_%": 11.37,
-      "Son_Kapanış": 4.95
+      "Dipten_Sonra_%": 20.25,
+      "Son_Kapanış": 72.83
     }
   ],
-  "last_run": "2026-02-10 15:07:48"
+  "last_run": "2026-02-10 16:18:58"
 }
