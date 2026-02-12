@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "AVB",
-      "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 5.97,
-      "Son_Kapanış": 179.83
+      "Sembol": "ERIE",
+      "Dip_Tarih": "2026-02-09",
+      "Dipten_Sonra_%": 4.81,
+      "Son_Kapanış": 282.55
     },
     {
       "Sembol": "NET",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 16.17,
-      "Son_Kapanış": 189.41
+      "Dipten_Sonra_%": 20.65,
+      "Son_Kapanış": 196.72
     },
     {
-      "Sembol": "SPOT",
+      "Sembol": "ARCC",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 18.03,
-      "Son_Kapanış": 487.17
+      "Dipten_Sonra_%": 6.25,
+      "Son_Kapanış": 19.97
     },
     {
-      "Sembol": "DDOG",
+      "Sembol": "SONY",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 19.3,
-      "Son_Kapanış": 127.33
+      "Dipten_Sonra_%": 9.16,
+      "Son_Kapanış": 23.18
     },
     {
-      "Sembol": "CCI",
+      "Sembol": "AVB",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 9.83,
-      "Son_Kapanış": 86.07
+      "Dipten_Sonra_%": 5.79,
+      "Son_Kapanış": 179.53
     }
   ],
-  "last_run": "2026-02-12 13:14:30"
+  "last_run": "2026-02-12 14:58:18"
 }
