@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "WTRG",
+      "Dip_Tarih": "2026-02-09",
+      "Dipten_Sonra_%": 4.64,
+      "Son_Kapanış": 38.58
+    },
+    {
       "Sembol": "ERIE",
       "Dip_Tarih": "2026-02-09",
-      "Dipten_Sonra_%": 5.29,
-      "Son_Kapanış": 283.83
+      "Dipten_Sonra_%": 4.96,
+      "Son_Kapanış": 282.94
     },
     {
       "Sembol": "AWK",
       "Dip_Tarih": "2026-02-09",
-      "Dipten_Sonra_%": 4.79,
-      "Son_Kapanış": 128.84
-    },
-    {
-      "Sembol": "WTRG",
-      "Dip_Tarih": "2026-02-09",
-      "Dipten_Sonra_%": 4.79,
-      "Son_Kapanış": 38.63
+      "Dipten_Sonra_%": 4.41,
+      "Son_Kapanış": 128.37
     },
     {
       "Sembol": "DDOG",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 17.73,
-      "Son_Kapanış": 125.65
+      "Dipten_Sonra_%": 18.18,
+      "Son_Kapanış": 126.13
     },
     {
-      "Sembol": "NET",
+      "Sembol": "CCI",
       "Dip_Tarih": "2026-02-05",
-      "Dipten_Sonra_%": 12.86,
-      "Son_Kapanış": 184.02
+      "Dipten_Sonra_%": 12.05,
+      "Son_Kapanış": 87.81
     }
   ],
-  "last_run": "2026-02-12 20:43:55"
+  "last_run": "2026-02-12 21:41:52"
 }
