@@ -3,33 +3,33 @@
     {
       "Sembol": "GFL",
       "Dip_Tarih": "2026-02-12",
-      "Dipten_Sonra_%": 5.01,
-      "Son_Kapanış": 43.4
+      "Dipten_Sonra_%": 5.08,
+      "Son_Kapanış": 43.43
     },
     {
       "Sembol": "CART",
       "Dip_Tarih": "2026-02-11",
-      "Dipten_Sonra_%": 12.18,
-      "Son_Kapanış": 36.94
+      "Dipten_Sonra_%": 13.18,
+      "Son_Kapanış": 37.27
     },
     {
-      "Sembol": "WTRG",
-      "Dip_Tarih": "2026-02-09",
-      "Dipten_Sonra_%": 6.75,
-      "Son_Kapanış": 39.36
+      "Sembol": "PEGA",
+      "Dip_Tarih": "2026-02-11",
+      "Dipten_Sonra_%": 18.86,
+      "Son_Kapanış": 45.08
     },
     {
-      "Sembol": "ERIE",
+      "Sembol": "FWONK",
       "Dip_Tarih": "2026-02-09",
-      "Dipten_Sonra_%": 5.67,
-      "Son_Kapanış": 284.86
+      "Dipten_Sonra_%": 3.6,
+      "Son_Kapanış": 87.45
     },
     {
-      "Sembol": "AWK",
+      "Sembol": "FWONA",
       "Dip_Tarih": "2026-02-09",
-      "Dipten_Sonra_%": 7.94,
-      "Son_Kapanış": 132.71
+      "Dipten_Sonra_%": 3.97,
+      "Son_Kapanış": 80.04
     }
   ],
-  "last_run": "2026-02-17 16:01:46"
+  "last_run": "2026-02-17 17:06:17"
 }
