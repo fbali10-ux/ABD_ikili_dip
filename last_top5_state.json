@@ -3,33 +3,33 @@
     {
       "Sembol": "ACM",
       "Dip_Tarih": "2026-02-13",
-      "Dipten_Sonra_%": 9.46,
-      "Son_Kapanış": 96.67
+      "Dipten_Sonra_%": 10.13,
+      "Son_Kapanış": 97.25
     },
     {
       "Sembol": "GRAB",
       "Dip_Tarih": "2026-02-13",
-      "Dipten_Sonra_%": 7.87,
-      "Son_Kapanış": 4.45
-    },
-    {
-      "Sembol": "SHOP",
-      "Dip_Tarih": "2026-02-12",
-      "Dipten_Sonra_%": 17.54,
-      "Son_Kapanış": 130.07
+      "Dipten_Sonra_%": 7.09,
+      "Son_Kapanış": 4.42
     },
     {
       "Sembol": "ALNY",
       "Dip_Tarih": "2026-02-12",
-      "Dipten_Sonra_%": 10.51,
-      "Son_Kapanış": 340.91
+      "Dipten_Sonra_%": 10.33,
+      "Son_Kapanış": 340.35
     },
     {
-      "Sembol": "PDD",
+      "Sembol": "OMC",
       "Dip_Tarih": "2026-02-12",
-      "Dipten_Sonra_%": 4.3,
-      "Son_Kapanış": 104.53
+      "Dipten_Sonra_%": 22.1,
+      "Son_Kapanış": 82.14
+    },
+    {
+      "Sembol": "TEM",
+      "Dip_Tarih": "2026-02-12",
+      "Dipten_Sonra_%": 14.5,
+      "Son_Kapanış": 58.15
     }
   ],
-  "last_run": "2026-02-20 16:47:20"
+  "last_run": "2026-02-20 17:48:55"
 }
