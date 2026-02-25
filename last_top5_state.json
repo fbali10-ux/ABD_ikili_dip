@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "DPZ",
-      "Dip_Tarih": "2026-02-17",
-      "Dipten_Sonra_%": 10.9,
-      "Son_Kapanış": 414.2
+      "Sembol": "TRI",
+      "Dip_Tarih": "2026-02-23",
+      "Dipten_Sonra_%": 18.33,
+      "Son_Kapanış": 95.68
     },
     {
-      "Sembol": "PYPL",
-      "Dip_Tarih": "2026-02-12",
-      "Dipten_Sonra_%": 20.32,
-      "Son_Kapanış": 47.02
+      "Sembol": "DPZ",
+      "Dip_Tarih": "2026-02-17",
+      "Dipten_Sonra_%": 9.7,
+      "Son_Kapanış": 409.74
+    },
+    {
+      "Sembol": "GRAB",
+      "Dip_Tarih": "2026-02-13",
+      "Dipten_Sonra_%": 5.57,
+      "Son_Kapanış": 4.36
     },
     {
       "Sembol": "PDD",
       "Dip_Tarih": "2026-02-12",
-      "Dipten_Sonra_%": 6.65,
-      "Son_Kapanış": 106.88
+      "Dipten_Sonra_%": 7.44,
+      "Son_Kapanış": 107.68
     },
     {
       "Sembol": "OMC",
       "Dip_Tarih": "2026-02-12",
-      "Dipten_Sonra_%": 22.58,
-      "Son_Kapanış": 82.46
-    },
-    {
-      "Sembol": "TEM",
-      "Dip_Tarih": "2026-02-12",
-      "Dipten_Sonra_%": 14.12,
-      "Son_Kapanış": 57.95
+      "Dipten_Sonra_%": 21.68,
+      "Son_Kapanış": 81.86
     }
   ],
-  "last_run": "2026-02-25 13:11:46"
+  "last_run": "2026-02-25 15:01:01"
 }
