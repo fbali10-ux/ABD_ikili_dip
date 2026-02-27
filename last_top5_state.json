@@ -3,33 +3,33 @@
     {
       "Sembol": "PSKY",
       "Dip_Tarih": "2026-02-25",
-      "Dipten_Sonra_%": 22.29,
-      "Son_Kapanış": 12.43
+      "Dipten_Sonra_%": 29.97,
+      "Son_Kapanış": 13.2
     },
     {
       "Sembol": "FICO",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 13.71,
-      "Son_Kapanış": 1395.98
+      "Dipten_Sonra_%": 14.94,
+      "Son_Kapanış": 1411.0
     },
     {
       "Sembol": "ADSK",
       "Dip_Tarih": "2026-02-23",
-      "Dipten_Sonra_%": 12.38,
-      "Son_Kapanış": 245.71
-    },
-    {
-      "Sembol": "TRI",
-      "Dip_Tarih": "2026-02-23",
-      "Dipten_Sonra_%": 19.55,
-      "Son_Kapanış": 96.67
+      "Dipten_Sonra_%": 12.37,
+      "Son_Kapanış": 245.68
     },
     {
       "Sembol": "GWRE",
       "Dip_Tarih": "2026-02-23",
-      "Dipten_Sonra_%": 17.85,
-      "Son_Kapanış": 144.04
+      "Dipten_Sonra_%": 17.87,
+      "Son_Kapanış": 144.06
+    },
+    {
+      "Sembol": "TRI",
+      "Dip_Tarih": "2026-02-23",
+      "Dipten_Sonra_%": 19.38,
+      "Son_Kapanış": 96.53
     }
   ],
-  "last_run": "2026-02-27 15:45:43"
+  "last_run": "2026-02-27 16:49:08"
 }
