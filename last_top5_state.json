@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "BBY",
-      "Dip_Tarih": "2026-03-02",
-      "Dipten_Sonra_%": 5.46,
-      "Son_Kapanış": 64.95
-    },
-    {
-      "Sembol": "KSPI",
-      "Dip_Tarih": "2026-02-27",
-      "Dipten_Sonra_%": 6.06,
-      "Son_Kapanış": 74.87
-    },
-    {
       "Sembol": "PSKY",
       "Dip_Tarih": "2026-02-25",
-      "Dipten_Sonra_%": 21.41,
-      "Son_Kapanış": 12.34
+      "Dipten_Sonra_%": 22.0,
+      "Son_Kapanış": 12.4
+    },
+    {
+      "Sembol": "PLTR",
+      "Dip_Tarih": "2026-02-24",
+      "Dipten_Sonra_%": 11.09,
+      "Son_Kapanış": 143.12
     },
     {
       "Sembol": "CPRT",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 7.94,
-      "Son_Kapanış": 38.08
+      "Dipten_Sonra_%": 8.91,
+      "Son_Kapanış": 38.42
     },
     {
       "Sembol": "INTU",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 17.85,
-      "Son_Kapanış": 422.74
+      "Dipten_Sonra_%": 20.88,
+      "Son_Kapanış": 433.61
+    },
+    {
+      "Sembol": "FICO",
+      "Dip_Tarih": "2026-02-24",
+      "Dipten_Sonra_%": 15.31,
+      "Son_Kapanış": 1415.57
     }
   ],
-  "last_run": "2026-03-03 15:58:25"
+  "last_run": "2026-03-03 16:54:32"
 }
