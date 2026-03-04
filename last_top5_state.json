@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "UNM",
+      "Dip_Tarih": "2026-03-03",
+      "Dipten_Sonra_%": 3.35,
+      "Son_Kapanış": 73.03
+    },
+    {
       "Sembol": "BBY",
       "Dip_Tarih": "2026-03-02",
-      "Dipten_Sonra_%": 9.19,
-      "Son_Kapanış": 67.25
+      "Dipten_Sonra_%": 9.48,
+      "Son_Kapanış": 67.43
     },
     {
       "Sembol": "PSKY",
       "Dip_Tarih": "2026-02-25",
-      "Dipten_Sonra_%": 19.19,
-      "Son_Kapanış": 12.11
+      "Dipten_Sonra_%": 19.44,
+      "Son_Kapanış": 12.14
     },
     {
-      "Sembol": "CRWD",
+      "Sembol": "FTNT",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 16.17,
-      "Son_Kapanış": 406.9
+      "Dipten_Sonra_%": 10.43,
+      "Son_Kapanış": 83.08
     },
     {
       "Sembol": "PLTR",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 19.29,
-      "Son_Kapanış": 153.7
-    },
-    {
-      "Sembol": "INTU",
-      "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 22.97,
-      "Son_Kapanış": 441.11
+      "Dipten_Sonra_%": 19.27,
+      "Son_Kapanış": 153.67
     }
   ],
-  "last_run": "2026-03-04 19:46:23"
+  "last_run": "2026-03-04 20:42:43"
 }
