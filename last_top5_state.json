@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "UNM",
-      "Dip_Tarih": "2026-03-03",
-      "Dipten_Sonra_%": 5.14,
-      "Son_Kapanış": 74.29
-    },
-    {
-      "Sembol": "BBY",
-      "Dip_Tarih": "2026-03-02",
-      "Dipten_Sonra_%": 6.51,
-      "Son_Kapanış": 65.6
+      "Sembol": "CHKP",
+      "Dip_Tarih": "2026-02-27",
+      "Dipten_Sonra_%": 8.2,
+      "Son_Kapanış": 164.54
     },
     {
       "Sembol": "KSPI",
       "Dip_Tarih": "2026-02-27",
-      "Dipten_Sonra_%": 5.74,
-      "Son_Kapanış": 74.64
+      "Dipten_Sonra_%": 6.17,
+      "Son_Kapanış": 74.94
     },
     {
       "Sembol": "TTD",
       "Dip_Tarih": "2026-02-27",
-      "Dipten_Sonra_%": 25.06,
-      "Son_Kapanış": 29.79
+      "Dipten_Sonra_%": 20.02,
+      "Son_Kapanış": 28.59
     },
     {
-      "Sembol": "CHKP",
-      "Dip_Tarih": "2026-02-27",
-      "Dipten_Sonra_%": 8.16,
-      "Son_Kapanış": 164.48
+      "Sembol": "GDDY",
+      "Dip_Tarih": "2026-02-25",
+      "Dipten_Sonra_%": 16.28,
+      "Son_Kapanış": 92.0
+    },
+    {
+      "Sembol": "CRWD",
+      "Dip_Tarih": "2026-02-24",
+      "Dipten_Sonra_%": 20.98,
+      "Son_Kapanış": 423.74
     }
   ],
-  "last_run": "2026-03-06 14:03:49"
+  "last_run": "2026-03-06 14:47:07"
 }
