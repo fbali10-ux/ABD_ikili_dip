@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "CHKP",
-      "Dip_Tarih": "2026-02-27",
-      "Dipten_Sonra_%": 8.2,
-      "Son_Kapanış": 164.54
-    },
-    {
-      "Sembol": "KSPI",
-      "Dip_Tarih": "2026-02-27",
-      "Dipten_Sonra_%": 6.17,
-      "Son_Kapanış": 74.94
-    },
-    {
       "Sembol": "TTD",
       "Dip_Tarih": "2026-02-27",
-      "Dipten_Sonra_%": 20.02,
-      "Son_Kapanış": 28.59
+      "Dipten_Sonra_%": 20.61,
+      "Son_Kapanış": 28.73
+    },
+    {
+      "Sembol": "CHKP",
+      "Dip_Tarih": "2026-02-27",
+      "Dipten_Sonra_%": 7.88,
+      "Son_Kapanış": 164.05
+    },
+    {
+      "Sembol": "PSKY",
+      "Dip_Tarih": "2026-02-25",
+      "Dipten_Sonra_%": 16.49,
+      "Son_Kapanış": 11.84
     },
     {
       "Sembol": "GDDY",
       "Dip_Tarih": "2026-02-25",
-      "Dipten_Sonra_%": 16.28,
-      "Son_Kapanış": 92.0
+      "Dipten_Sonra_%": 16.66,
+      "Son_Kapanış": 92.3
     },
     {
-      "Sembol": "CRWD",
+      "Sembol": "HPQ",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 20.98,
-      "Son_Kapanış": 423.74
+      "Dipten_Sonra_%": 5.88,
+      "Son_Kapanış": 19.27
     }
   ],
-  "last_run": "2026-03-06 14:47:07"
+  "last_run": "2026-03-06 15:45:08"
 }
