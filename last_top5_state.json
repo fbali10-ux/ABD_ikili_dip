@@ -3,33 +3,33 @@
     {
       "Sembol": "FWONK",
       "Dip_Tarih": "2026-03-13",
-      "Dipten_Sonra_%": 3.45,
-      "Son_Kapanış": 86.55
+      "Dipten_Sonra_%": 4.22,
+      "Son_Kapanış": 87.19
     },
     {
       "Sembol": "FUTU",
       "Dip_Tarih": "2026-03-13",
-      "Dipten_Sonra_%": 6.13,
-      "Son_Kapanış": 149.79
+      "Dipten_Sonra_%": 5.6,
+      "Son_Kapanış": 149.05
     },
     {
       "Sembol": "TME",
       "Dip_Tarih": "2026-03-11",
-      "Dipten_Sonra_%": 13.0,
+      "Dipten_Sonra_%": 13.03,
       "Son_Kapanış": 15.09
+    },
+    {
+      "Sembol": "FWONA",
+      "Dip_Tarih": "2026-03-11",
+      "Dipten_Sonra_%": 3.84,
+      "Son_Kapanış": 79.02
     },
     {
       "Sembol": "NTES",
       "Dip_Tarih": "2026-03-05",
-      "Dipten_Sonra_%": 4.48,
-      "Son_Kapanış": 119.1
-    },
-    {
-      "Sembol": "JD",
-      "Dip_Tarih": "2026-03-04",
-      "Dipten_Sonra_%": 13.11,
-      "Son_Kapanış": 28.73
+      "Dipten_Sonra_%": 4.87,
+      "Son_Kapanış": 119.54
     }
   ],
-  "last_run": "2026-03-16 18:09:44"
+  "last_run": "2026-03-16 20:46:49"
 }
