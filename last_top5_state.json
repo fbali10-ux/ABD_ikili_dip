@@ -3,33 +3,33 @@
     {
       "Sembol": "PSTG",
       "Dip_Tarih": "2026-03-06",
-      "Dipten_Sonra_%": 6.86,
-      "Son_Kapanış": 65.08
+      "Dipten_Sonra_%": 6.39,
+      "Son_Kapanış": 64.79
     },
     {
       "Sembol": "JD",
       "Dip_Tarih": "2026-03-04",
-      "Dipten_Sonra_%": 9.17,
-      "Son_Kapanış": 27.73
+      "Dipten_Sonra_%": 9.42,
+      "Son_Kapanış": 27.79
     },
     {
       "Sembol": "XPEV",
       "Dip_Tarih": "2026-03-03",
-      "Dipten_Sonra_%": 20.04,
-      "Son_Kapanış": 19.05
+      "Dipten_Sonra_%": 19.97,
+      "Son_Kapanış": 19.04
+    },
+    {
+      "Sembol": "UNM",
+      "Dip_Tarih": "2026-03-03",
+      "Dipten_Sonra_%": 3.98,
+      "Son_Kapanış": 73.47
     },
     {
       "Sembol": "CRWD",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 23.36,
-      "Son_Kapanış": 432.08
-    },
-    {
-      "Sembol": "PLTR",
-      "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 17.91,
-      "Son_Kapanış": 151.91
+      "Dipten_Sonra_%": 22.43,
+      "Son_Kapanış": 428.8
     }
   ],
-  "last_run": "2026-03-19 14:57:13"
+  "last_run": "2026-03-19 16:06:43"
 }
