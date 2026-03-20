@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "ALLY",
-      "Dip_Tarih": "2026-03-16",
-      "Dipten_Sonra_%": 7.84,
-      "Son_Kapanış": 38.78
-    },
-    {
       "Sembol": "PLTR",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 17.98,
-      "Son_Kapanış": 152.01
+      "Dipten_Sonra_%": 16.33,
+      "Son_Kapanış": 149.88
     },
     {
       "Sembol": "INTU",
       "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 27.48,
-      "Son_Kapanış": 457.28
+      "Dipten_Sonra_%": 26.89,
+      "Son_Kapanış": 455.17
     },
     {
-      "Sembol": "HPE",
+      "Sembol": "NET",
       "Dip_Tarih": "2026-02-23",
-      "Dipten_Sonra_%": 9.0,
-      "Son_Kapanış": 21.8
+      "Dipten_Sonra_%": 35.06,
+      "Son_Kapanış": 216.35
     },
     {
-      "Sembol": "EXPE",
+      "Sembol": "GWRE",
       "Dip_Tarih": "2026-02-23",
-      "Dipten_Sonra_%": 23.4,
-      "Son_Kapanış": 232.63
+      "Dipten_Sonra_%": 29.07,
+      "Son_Kapanış": 157.74
+    },
+    {
+      "Sembol": "VRSN",
+      "Dip_Tarih": "2026-02-23",
+      "Dipten_Sonra_%": 13.57,
+      "Son_Kapanış": 240.19
     }
   ],
-  "last_run": "2026-03-20 17:44:05"
+  "last_run": "2026-03-20 18:59:10"
 }
