@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "APO-PA",
-      "Dip_Tarih": "2026-03-12",
-      "Dipten_Sonra_%": 9.0,
-      "Son_Kapanış": 59.01
+      "Sembol": "INSM",
+      "Dip_Tarih": "2026-03-20",
+      "Dipten_Sonra_%": 6.89,
+      "Son_Kapanış": 145.38
     },
     {
-      "Sembol": "APO",
-      "Dip_Tarih": "2026-03-12",
-      "Dipten_Sonra_%": 11.67,
-      "Son_Kapanış": 112.0
+      "Sembol": "SF",
+      "Dip_Tarih": "2026-03-16",
+      "Dipten_Sonra_%": 5.81,
+      "Son_Kapanış": 73.89
     },
     {
-      "Sembol": "INTU",
-      "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 27.0,
-      "Son_Kapanış": 455.56
+      "Sembol": "ALLY",
+      "Dip_Tarih": "2026-03-16",
+      "Dipten_Sonra_%": 10.37,
+      "Son_Kapanış": 39.69
     },
     {
-      "Sembol": "PLTR",
-      "Dip_Tarih": "2026-02-24",
-      "Dipten_Sonra_%": 16.95,
-      "Son_Kapanış": 150.68
+      "Sembol": "DKS",
+      "Dip_Tarih": "2026-03-16",
+      "Dipten_Sonra_%": 5.11,
+      "Son_Kapanış": 197.38
     },
     {
-      "Sembol": "BAH",
-      "Dip_Tarih": "2026-02-23",
-      "Dipten_Sonra_%": 7.66,
-      "Son_Kapanış": 79.95
+      "Sembol": "SYF",
+      "Dip_Tarih": "2026-03-13",
+      "Dipten_Sonra_%": 6.16,
+      "Son_Kapanış": 67.71
     }
   ],
-  "last_run": "2026-03-23 13:14:37"
+  "last_run": "2026-03-23 15:02:46"
 }
