@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "SWKS",
+      "Dip_Tarih": "2026-03-18",
+      "Dipten_Sonra_%": 5.12,
+      "Son_Kapanış": 56.33
+    },
+    {
       "Sembol": "ALLY",
       "Dip_Tarih": "2026-03-16",
-      "Dipten_Sonra_%": 9.07,
-      "Son_Kapanış": 39.22
+      "Dipten_Sonra_%": 10.23,
+      "Son_Kapanış": 39.64
     },
     {
-      "Sembol": "KSPI",
+      "Sembol": "WFC",
       "Dip_Tarih": "2026-03-13",
-      "Dipten_Sonra_%": 7.06,
-      "Son_Kapanış": 73.7
+      "Dipten_Sonra_%": 7.53,
+      "Son_Kapanış": 79.68
     },
     {
-      "Sembol": "AYI",
+      "Sembol": "SYF",
+      "Dip_Tarih": "2026-03-13",
+      "Dipten_Sonra_%": 6.21,
+      "Son_Kapanış": 67.74
+    },
+    {
+      "Sembol": "JPM",
       "Dip_Tarih": "2026-03-12",
-      "Dipten_Sonra_%": 8.32,
-      "Son_Kapanış": 279.23
-    },
-    {
-      "Sembol": "AJG",
-      "Dip_Tarih": "2026-03-12",
-      "Dipten_Sonra_%": 6.14,
-      "Son_Kapanış": 216.74
-    },
-    {
-      "Sembol": "SYM",
-      "Dip_Tarih": "2026-03-06",
-      "Dipten_Sonra_%": 8.21,
-      "Son_Kapanış": 52.6
+      "Dipten_Sonra_%": 3.54,
+      "Son_Kapanış": 292.9
     }
   ],
-  "last_run": "2026-03-24 13:18:22"
+  "last_run": "2026-03-24 15:10:00"
 }
