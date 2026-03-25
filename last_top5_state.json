@@ -3,33 +3,33 @@
     {
       "Sembol": "ALNY",
       "Dip_Tarih": "2026-03-23",
-      "Dipten_Sonra_%": 5.99,
-      "Son_Kapanış": 325.02
-    },
-    {
-      "Sembol": "INSM",
-      "Dip_Tarih": "2026-03-20",
-      "Dipten_Sonra_%": 8.48,
-      "Son_Kapanış": 147.54
+      "Dipten_Sonra_%": 6.34,
+      "Son_Kapanış": 326.1
     },
     {
       "Sembol": "CHWY",
       "Dip_Tarih": "2026-03-20",
-      "Dipten_Sonra_%": 13.81,
-      "Son_Kapanış": 26.6
+      "Dipten_Sonra_%": 13.56,
+      "Son_Kapanış": 26.54
     },
     {
-      "Sembol": "VIPS",
+      "Sembol": "INSM",
       "Dip_Tarih": "2026-03-20",
-      "Dipten_Sonra_%": 4.87,
-      "Son_Kapanış": 16.14
+      "Dipten_Sonra_%": 8.9,
+      "Son_Kapanış": 148.1
     },
     {
-      "Sembol": "TEL",
+      "Sembol": "PDD",
       "Dip_Tarih": "2026-03-20",
-      "Dipten_Sonra_%": 6.3,
-      "Son_Kapanış": 208.17
+      "Dipten_Sonra_%": 7.25,
+      "Son_Kapanış": 103.16
+    },
+    {
+      "Sembol": "W",
+      "Dip_Tarih": "2026-03-20",
+      "Dipten_Sonra_%": 9.99,
+      "Son_Kapanış": 79.58
     }
   ],
-  "last_run": "2026-03-25 18:09:41"
+  "last_run": "2026-03-25 19:12:43"
 }
