@@ -3,33 +3,33 @@
     {
       "Sembol": "SYM",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 9.45,
-      "Son_Kapanış": 51.89
+      "Dipten_Sonra_%": 11.22,
+      "Son_Kapanış": 52.73
     },
     {
       "Sembol": "JPM",
       "Dip_Tarih": "2026-03-27",
-      "Dipten_Sonra_%": 3.73,
-      "Son_Kapanış": 293.39
-    },
-    {
-      "Sembol": "MELI",
-      "Dip_Tarih": "2026-03-27",
-      "Dipten_Sonra_%": 6.8,
-      "Son_Kapanış": 1708.34
+      "Dipten_Sonra_%": 4.23,
+      "Son_Kapanış": 294.8
     },
     {
       "Sembol": "UBS",
       "Dip_Tarih": "2026-03-27",
-      "Dipten_Sonra_%": 6.48,
-      "Son_Kapanış": 38.77
+      "Dipten_Sonra_%": 7.1,
+      "Son_Kapanış": 38.99
     },
     {
-      "Sembol": "ERIE",
-      "Dip_Tarih": "2026-03-25",
-      "Dipten_Sonra_%": 5.75,
-      "Son_Kapanış": 249.68
+      "Sembol": "BROS",
+      "Dip_Tarih": "2026-03-27",
+      "Dipten_Sonra_%": 8.35,
+      "Son_Kapanış": 50.59
+    },
+    {
+      "Sembol": "MELI",
+      "Dip_Tarih": "2026-03-27",
+      "Dipten_Sonra_%": 8.17,
+      "Son_Kapanış": 1730.15
     }
   ],
-  "last_run": "2026-03-31 18:06:06"
+  "last_run": "2026-03-31 19:11:15"
 }
