@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "AAL",
-      "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 9.44,
-      "Son_Kapanış": 11.14
-    },
-    {
       "Sembol": "UAL",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 10.88,
-      "Son_Kapanış": 94.48
-    },
-    {
-      "Sembol": "NU",
-      "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 7.74,
-      "Son_Kapanış": 14.56
+      "Dipten_Sonra_%": 11.58,
+      "Son_Kapanış": 95.08
     },
     {
       "Sembol": "SYM",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 15.74,
-      "Son_Kapanış": 54.87
+      "Dipten_Sonra_%": 15.63,
+      "Son_Kapanış": 54.82
+    },
+    {
+      "Sembol": "AAL",
+      "Dip_Tarih": "2026-03-30",
+      "Dipten_Sonra_%": 9.33,
+      "Son_Kapanış": 11.13
+    },
+    {
+      "Sembol": "XYL",
+      "Dip_Tarih": "2026-03-30",
+      "Dipten_Sonra_%": 5.42,
+      "Son_Kapanış": 122.48
     },
     {
       "Sembol": "HBAN",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 5.76,
-      "Son_Kapanış": 15.89
+      "Dipten_Sonra_%": 5.73,
+      "Son_Kapanış": 15.88
     }
   ],
-  "last_run": "2026-04-01 19:09:37"
+  "last_run": "2026-04-01 20:11:57"
 }
