@@ -3,33 +3,33 @@
     {
       "Sembol": "BML-PJ",
       "Dip_Tarih": "2026-03-31",
-      "Dipten_Sonra_%": 3.58,
-      "Son_Kapanış": 19.73
+      "Dipten_Sonra_%": 3.44,
+      "Son_Kapanış": 19.7
     },
     {
       "Sembol": "NVDA",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 7.12,
-      "Son_Kapanış": 176.93
+      "Dipten_Sonra_%": 7.42,
+      "Son_Kapanış": 177.43
     },
     {
-      "Sembol": "SYM",
+      "Sembol": "SWKS",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 11.69,
-      "Son_Kapanış": 52.95
+      "Dipten_Sonra_%": 5.12,
+      "Son_Kapanış": 55.19
     },
     {
-      "Sembol": "RMBS",
+      "Sembol": "RKT",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 17.26,
-      "Son_Kapanış": 93.5
+      "Dipten_Sonra_%": 10.49,
+      "Son_Kapanış": 14.9
     },
     {
-      "Sembol": "HBAN",
+      "Sembol": "RBLX",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 5.49,
-      "Son_Kapanış": 15.85
+      "Dipten_Sonra_%": 15.76,
+      "Son_Kapanış": 60.09
     }
   ],
-  "last_run": "2026-04-02 19:05:24"
+  "last_run": "2026-04-02 20:03:18"
 }
