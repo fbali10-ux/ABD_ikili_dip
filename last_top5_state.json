@@ -7,29 +7,29 @@
       "Son_Kapanış": 19.75
     },
     {
-      "Sembol": "NVDA",
+      "Sembol": "SYM",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 7.55,
-      "Son_Kapanış": 177.64
+      "Dipten_Sonra_%": 12.42,
+      "Son_Kapanış": 53.3
     },
     {
-      "Sembol": "CNC",
+      "Sembol": "BNT",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 11.32,
-      "Son_Kapanış": 35.4
+      "Dipten_Sonra_%": 4.75,
+      "Son_Kapanış": 42.12
     },
     {
-      "Sembol": "DHI",
+      "Sembol": "ZBRA",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 6.93,
-      "Son_Kapanış": 141.72
+      "Dipten_Sonra_%": 5.93,
+      "Son_Kapanış": 211.12
     },
     {
-      "Sembol": "RBRK",
+      "Sembol": "RMBS",
       "Dip_Tarih": "2026-03-30",
-      "Dipten_Sonra_%": 11.67,
-      "Son_Kapanış": 50.9
+      "Dipten_Sonra_%": 15.67,
+      "Son_Kapanış": 92.22
     }
   ],
-  "last_run": "2026-04-07 02:25:16"
+  "last_run": "2026-04-07 05:20:12"
 }
