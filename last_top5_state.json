@@ -3,33 +3,33 @@
     {
       "Sembol": "HD",
       "Dip_Tarih": "2026-04-07",
-      "Dipten_Sonra_%": 5.45,
-      "Son_Kapanış": 336.14
+      "Dipten_Sonra_%": 5.39,
+      "Son_Kapanış": 335.95
     },
     {
       "Sembol": "AMP",
       "Dip_Tarih": "2026-04-06",
-      "Dipten_Sonra_%": 4.9,
-      "Son_Kapanış": 451.47
-    },
-    {
-      "Sembol": "BEKE",
-      "Dip_Tarih": "2026-04-02",
-      "Dipten_Sonra_%": 6.28,
-      "Son_Kapanış": 15.74
-    },
-    {
-      "Sembol": "ACGLO",
-      "Dip_Tarih": "2026-03-31",
-      "Dipten_Sonra_%": 3.13,
-      "Son_Kapanış": 20.09
+      "Dipten_Sonra_%": 5.25,
+      "Son_Kapanış": 452.99
     },
     {
       "Sembol": "VNO-PL",
       "Dip_Tarih": "2026-03-31",
-      "Dipten_Sonra_%": 4.64,
-      "Son_Kapanış": 16.95
+      "Dipten_Sonra_%": 4.44,
+      "Son_Kapanış": 16.92
+    },
+    {
+      "Sembol": "BML-PJ",
+      "Dip_Tarih": "2026-03-31",
+      "Dipten_Sonra_%": 3.94,
+      "Son_Kapanış": 19.8
+    },
+    {
+      "Sembol": "BAC-PE",
+      "Dip_Tarih": "2026-03-31",
+      "Dipten_Sonra_%": 3.17,
+      "Son_Kapanış": 19.18
     }
   ],
-  "last_run": "2026-04-08 18:25:32"
+  "last_run": "2026-04-08 20:08:10"
 }
