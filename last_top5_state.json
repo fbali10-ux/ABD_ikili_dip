@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "HD",
-      "Dip_Tarih": "2026-04-07",
-      "Dipten_Sonra_%": 6.53,
-      "Son_Kapanış": 339.58
-    },
-    {
-      "Sembol": "ALLE",
-      "Dip_Tarih": "2026-04-07",
-      "Dipten_Sonra_%": 4.94,
-      "Son_Kapanış": 146.29
-    },
-    {
       "Sembol": "SOLV",
       "Dip_Tarih": "2026-04-07",
-      "Dipten_Sonra_%": 5.9,
-      "Son_Kapanış": 66.18
+      "Dipten_Sonra_%": 6.07,
+      "Son_Kapanış": 66.29
     },
     {
-      "Sembol": "AMP",
-      "Dip_Tarih": "2026-04-06",
-      "Dipten_Sonra_%": 5.23,
-      "Son_Kapanış": 452.9
+      "Sembol": "QCOM",
+      "Dip_Tarih": "2026-04-07",
+      "Dipten_Sonra_%": 4.5,
+      "Son_Kapanış": 129.65
     },
     {
-      "Sembol": "UHS",
+      "Sembol": "HD",
+      "Dip_Tarih": "2026-04-07",
+      "Dipten_Sonra_%": 6.27,
+      "Son_Kapanış": 338.77
+    },
+    {
+      "Sembol": "BABA",
+      "Dip_Tarih": "2026-04-07",
+      "Dipten_Sonra_%": 7.32,
+      "Son_Kapanış": 128.48
+    },
+    {
+      "Sembol": "BEKE",
       "Dip_Tarih": "2026-04-02",
-      "Dipten_Sonra_%": 6.33,
-      "Son_Kapanış": 187.88
+      "Dipten_Sonra_%": 7.06,
+      "Son_Kapanış": 15.85
     }
   ],
-  "last_run": "2026-04-10 13:15:52"
+  "last_run": "2026-04-10 14:59:48"
 }
