@@ -3,33 +3,33 @@
     {
       "Sembol": "GIB",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 4.82,
-      "Son_Kapanış": 73.12
+      "Dipten_Sonra_%": 5.23,
+      "Son_Kapanış": 73.41
     },
     {
       "Sembol": "CDNS",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 7.55,
-      "Son_Kapanış": 285.71
+      "Dipten_Sonra_%": 8.48,
+      "Son_Kapanış": 288.2
     },
     {
-      "Sembol": "HD",
+      "Sembol": "SOLV",
       "Dip_Tarih": "2026-04-07",
-      "Dipten_Sonra_%": 6.43,
-      "Son_Kapanış": 339.26
+      "Dipten_Sonra_%": 7.87,
+      "Son_Kapanış": 67.41
     },
     {
       "Sembol": "ALLE",
       "Dip_Tarih": "2026-04-07",
-      "Dipten_Sonra_%": 5.04,
-      "Son_Kapanış": 146.42
+      "Dipten_Sonra_%": 5.6,
+      "Son_Kapanış": 147.21
     },
     {
       "Sembol": "QCOM",
       "Dip_Tarih": "2026-04-07",
-      "Dipten_Sonra_%": 4.94,
-      "Son_Kapanış": 130.2
+      "Dipten_Sonra_%": 5.78,
+      "Son_Kapanış": 131.24
     }
   ],
-  "last_run": "2026-04-13 19:33:09"
+  "last_run": "2026-04-13 21:03:47"
 }
