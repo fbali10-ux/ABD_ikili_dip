@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "AMP",
-      "Dip_Tarih": "2026-04-06",
-      "Dipten_Sonra_%": 3.86,
-      "Son_Kapanış": 447.03
+      "Sembol": "CDNS",
+      "Dip_Tarih": "2026-04-10",
+      "Dipten_Sonra_%": 7.27,
+      "Son_Kapanış": 284.98
     },
     {
-      "Sembol": "BEKE",
-      "Dip_Tarih": "2026-04-02",
-      "Dipten_Sonra_%": 6.04,
-      "Son_Kapanış": 15.7
+      "Sembol": "SEIC",
+      "Dip_Tarih": "2026-04-07",
+      "Dipten_Sonra_%": 3.6,
+      "Son_Kapanış": 77.89
     },
     {
-      "Sembol": "VNO-PL",
-      "Dip_Tarih": "2026-03-31",
-      "Dipten_Sonra_%": 7.65,
-      "Son_Kapanış": 17.44
+      "Sembol": "ALLE",
+      "Dip_Tarih": "2026-04-07",
+      "Dipten_Sonra_%": 4.52,
+      "Son_Kapanış": 145.71
     },
     {
-      "Sembol": "BML-PJ",
-      "Dip_Tarih": "2026-03-31",
-      "Dipten_Sonra_%": 3.62,
-      "Son_Kapanış": 19.74
+      "Sembol": "SOLV",
+      "Dip_Tarih": "2026-04-07",
+      "Dipten_Sonra_%": 5.87,
+      "Son_Kapanış": 66.16
     },
     {
-      "Sembol": "ACGLO",
-      "Dip_Tarih": "2026-03-31",
-      "Dipten_Sonra_%": 3.95,
-      "Son_Kapanış": 20.25
+      "Sembol": "HD",
+      "Dip_Tarih": "2026-04-07",
+      "Dipten_Sonra_%": 5.37,
+      "Son_Kapanış": 335.9
     }
   ],
-  "last_run": "2026-04-13 14:57:30"
+  "last_run": "2026-04-13 16:24:07"
 }
