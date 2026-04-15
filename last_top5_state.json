@@ -3,33 +3,33 @@
     {
       "Sembol": "GIB",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 5.36,
-      "Son_Kapanış": 73.5
+      "Dipten_Sonra_%": 6.03,
+      "Son_Kapanış": 73.97
+    },
+    {
+      "Sembol": "ADBE",
+      "Dip_Tarih": "2026-04-10",
+      "Dipten_Sonra_%": 8.01,
+      "Son_Kapanış": 243.41
+    },
+    {
+      "Sembol": "ARE",
+      "Dip_Tarih": "2026-04-10",
+      "Dipten_Sonra_%": 11.38,
+      "Son_Kapanış": 47.46
+    },
+    {
+      "Sembol": "RBRK",
+      "Dip_Tarih": "2026-04-10",
+      "Dipten_Sonra_%": 15.0,
+      "Son_Kapanış": 50.38
     },
     {
       "Sembol": "ISRG",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 3.68,
-      "Son_Kapanış": 467.22
-    },
-    {
-      "Sembol": "OWL",
-      "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 11.42,
-      "Son_Kapanış": 9.17
-    },
-    {
-      "Sembol": "CDNS",
-      "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 10.05,
-      "Son_Kapanış": 292.37
-    },
-    {
-      "Sembol": "KEP",
-      "Dip_Tarih": "2026-04-07",
-      "Dipten_Sonra_%": 12.89,
-      "Son_Kapanış": 15.33
+      "Dipten_Sonra_%": 4.24,
+      "Son_Kapanış": 469.72
     }
   ],
-  "last_run": "2026-04-15 12:07:26"
+  "last_run": "2026-04-15 15:14:11"
 }
