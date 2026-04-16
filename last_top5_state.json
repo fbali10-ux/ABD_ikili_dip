@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "VIPS",
-      "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 4.22,
-      "Son_Kapanış": 15.44
+      "Sembol": "SAP",
+      "Dip_Tarih": "2026-04-10",
+      "Dipten_Sonra_%": 8.69,
+      "Son_Kapanış": 177.27
     },
     {
-      "Sembol": "CDNS",
+      "Sembol": "ADBE",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 15.09,
-      "Son_Kapanış": 305.74
+      "Dipten_Sonra_%": 10.23,
+      "Son_Kapanış": 248.4
     },
     {
-      "Sembol": "PLTR",
+      "Sembol": "ADSK",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 11.4,
-      "Son_Kapanış": 142.66
+      "Dipten_Sonra_%": 11.05,
+      "Son_Kapanış": 242.59
     },
     {
-      "Sembol": "Z",
+      "Sembol": "NTNX",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 9.93,
-      "Son_Kapanış": 43.83
+      "Dipten_Sonra_%": 14.75,
+      "Son_Kapanış": 39.49
     },
     {
-      "Sembol": "ZG",
+      "Sembol": "PAYX",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 9.69,
-      "Son_Kapanış": 43.81
+      "Dipten_Sonra_%": 7.78,
+      "Son_Kapanış": 92.23
     }
   ],
-  "last_run": "2026-04-16 17:22:37"
+  "last_run": "2026-04-16 19:21:00"
 }
