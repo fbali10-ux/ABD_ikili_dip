@@ -3,33 +3,33 @@
     {
       "Sembol": "VIPS",
       "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 5.74,
-      "Son_Kapanış": 15.67
+      "Dipten_Sonra_%": 5.33,
+      "Son_Kapanış": 15.61
     },
     {
-      "Sembol": "GIB",
+      "Sembol": "ACN",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 10.11,
-      "Son_Kapanış": 76.81
+      "Dipten_Sonra_%": 9.55,
+      "Son_Kapanış": 196.67
     },
     {
-      "Sembol": "MDB",
+      "Sembol": "GEN",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 12.64,
-      "Son_Kapanış": 254.5
+      "Dipten_Sonra_%": 11.82,
+      "Son_Kapanış": 20.0
     },
     {
-      "Sembol": "MANH",
+      "Sembol": "NTNX",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 9.56,
-      "Son_Kapanış": 132.43
+      "Dipten_Sonra_%": 16.19,
+      "Son_Kapanış": 39.98
     },
     {
-      "Sembol": "FIS",
+      "Sembol": "PCOR",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 12.11,
-      "Son_Kapanış": 48.62
+      "Dipten_Sonra_%": 16.06,
+      "Son_Kapanış": 54.77
     }
   ],
-  "last_run": "2026-04-17 17:11:45"
+  "last_run": "2026-04-17 19:11:06"
 }
