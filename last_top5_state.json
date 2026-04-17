@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "Z",
-      "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 10.56,
-      "Son_Kapanış": 44.08
+      "Sembol": "SJM",
+      "Dip_Tarih": "2026-04-13",
+      "Dipten_Sonra_%": 6.96,
+      "Son_Kapanış": 95.76
     },
     {
-      "Sembol": "TTAN",
-      "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 13.75,
-      "Son_Kapanış": 62.89
+      "Sembol": "VIPS",
+      "Dip_Tarih": "2026-04-13",
+      "Dipten_Sonra_%": 6.26,
+      "Son_Kapanış": 15.75
     },
     {
-      "Sembol": "TTD",
+      "Sembol": "ADSK",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 13.29,
-      "Son_Kapanış": 22.76
+      "Dipten_Sonra_%": 13.1,
+      "Son_Kapanış": 247.07
     },
     {
-      "Sembol": "IT",
+      "Sembol": "DOX",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 8.22,
-      "Son_Kapanış": 155.53
+      "Dipten_Sonra_%": 7.06,
+      "Son_Kapanış": 67.44
     },
     {
-      "Sembol": "MDB",
+      "Sembol": "PAYX",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 11.15,
-      "Son_Kapanış": 251.14
+      "Dipten_Sonra_%": 7.91,
+      "Son_Kapanış": 92.34
     }
   ],
-  "last_run": "2026-04-17 13:29:21"
+  "last_run": "2026-04-17 15:03:44"
 }
