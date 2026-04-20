@@ -3,33 +3,33 @@
     {
       "Sembol": "SJM",
       "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 7.13,
-      "Son_Kapanış": 95.92
+      "Dipten_Sonra_%": 7.38,
+      "Son_Kapanış": 96.14
     },
     {
-      "Sembol": "J",
+      "Sembol": "OKTA",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 4.88,
-      "Son_Kapanış": 128.86
+      "Dipten_Sonra_%": 20.39,
+      "Son_Kapanış": 75.76
     },
     {
-      "Sembol": "IT",
+      "Sembol": "INTU",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 8.81,
-      "Son_Kapanış": 156.38
+      "Dipten_Sonra_%": 15.36,
+      "Son_Kapanış": 404.83
     },
     {
-      "Sembol": "GIB",
+      "Sembol": "TTD",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 10.09,
-      "Son_Kapanış": 76.8
+      "Dipten_Sonra_%": 19.71,
+      "Son_Kapanış": 24.05
     },
     {
-      "Sembol": "PCOR",
+      "Sembol": "GWRE",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 17.78,
-      "Son_Kapanış": 55.58
+      "Dipten_Sonra_%": 21.24,
+      "Son_Kapanış": 143.0
     }
   ],
-  "last_run": "2026-04-20 19:15:23"
+  "last_run": "2026-04-20 20:53:34"
 }
