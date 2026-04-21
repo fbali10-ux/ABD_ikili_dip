@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "PAYX",
+      "Sembol": "CDNS",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 9.82,
-      "Son_Kapanış": 93.97
+      "Dipten_Sonra_%": 22.65,
+      "Son_Kapanış": 325.84
     },
     {
-      "Sembol": "MANH",
+      "Sembol": "PCOR",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 13.22,
-      "Son_Kapanış": 136.86
+      "Dipten_Sonra_%": 19.03,
+      "Son_Kapanış": 56.17
     },
     {
-      "Sembol": "ARE",
+      "Sembol": "VRSK",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 11.31,
-      "Son_Kapanış": 47.43
+      "Dipten_Sonra_%": 10.84,
+      "Son_Kapanış": 182.09
     },
     {
-      "Sembol": "NOW",
+      "Sembol": "FIS",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 21.7,
-      "Son_Kapanış": 101.01
+      "Dipten_Sonra_%": 9.91,
+      "Son_Kapanış": 47.67
     },
     {
-      "Sembol": "BSY",
+      "Sembol": "SAP",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 12.2,
-      "Son_Kapanış": 35.12
+      "Dipten_Sonra_%": 8.19,
+      "Son_Kapanış": 176.46
     }
   ],
-  "last_run": "2026-04-21 18:18:39"
+  "last_run": "2026-04-21 20:14:47"
 }
