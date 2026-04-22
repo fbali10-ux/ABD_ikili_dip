@@ -3,20 +3,20 @@
     {
       "Sembol": "SJM",
       "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 6.94,
-      "Son_Kapanış": 95.74
+      "Dipten_Sonra_%": 7.12,
+      "Son_Kapanış": 95.91
     },
     {
-      "Sembol": "ADSK",
+      "Sembol": "Z",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 12.37,
-      "Son_Kapanış": 245.48
+      "Dipten_Sonra_%": 17.24,
+      "Son_Kapanış": 46.74
     },
     {
-      "Sembol": "ARE",
+      "Sembol": "OKTA",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 12.2,
-      "Son_Kapanış": 47.81
+      "Dipten_Sonra_%": 24.44,
+      "Son_Kapanış": 78.31
     },
     {
       "Sembol": "SAP",
@@ -25,11 +25,11 @@
       "Son_Kapanış": 176.44
     },
     {
-      "Sembol": "DOX",
+      "Sembol": "MRSH",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 5.35,
-      "Son_Kapanış": 66.37
+      "Dipten_Sonra_%": 6.45,
+      "Son_Kapanış": 179.0
     }
   ],
-  "last_run": "2026-04-22 11:15:48"
+  "last_run": "2026-04-22 13:34:20"
 }
