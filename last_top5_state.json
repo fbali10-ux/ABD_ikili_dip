@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "BSX",
+      "Dip_Tarih": "2026-04-21",
+      "Dipten_Sonra_%": 8.43,
+      "Son_Kapanış": 64.54
+    },
+    {
       "Sembol": "SJM",
       "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 7.12,
-      "Son_Kapanış": 95.91
+      "Dipten_Sonra_%": 7.91,
+      "Son_Kapanış": 96.61
     },
     {
-      "Sembol": "Z",
+      "Sembol": "PAYX",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 17.24,
-      "Son_Kapanış": 46.74
+      "Dipten_Sonra_%": 8.46,
+      "Son_Kapanış": 92.81
     },
     {
-      "Sembol": "OKTA",
+      "Sembol": "SAIL",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 24.44,
-      "Son_Kapanış": 78.31
+      "Dipten_Sonra_%": 17.45,
+      "Son_Kapanış": 12.32
     },
     {
-      "Sembol": "SAP",
+      "Sembol": "ZG",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 8.18,
-      "Son_Kapanış": 176.44
-    },
-    {
-      "Sembol": "MRSH",
-      "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 6.45,
-      "Son_Kapanış": 179.0
+      "Dipten_Sonra_%": 15.22,
+      "Son_Kapanış": 46.02
     }
   ],
-  "last_run": "2026-04-22 13:34:20"
+  "last_run": "2026-04-22 15:23:54"
 }
