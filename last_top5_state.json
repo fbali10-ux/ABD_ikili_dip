@@ -3,33 +3,33 @@
     {
       "Sembol": "BSX",
       "Dip_Tarih": "2026-04-21",
-      "Dipten_Sonra_%": 10.76,
-      "Son_Kapanış": 65.93
+      "Dipten_Sonra_%": 10.37,
+      "Son_Kapanış": 65.69
     },
     {
       "Sembol": "RDY",
       "Dip_Tarih": "2026-04-21",
-      "Dipten_Sonra_%": 6.3,
-      "Son_Kapanış": 13.57
+      "Dipten_Sonra_%": 6.34,
+      "Son_Kapanış": 13.58
     },
     {
       "Sembol": "SJM",
       "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 7.36,
-      "Son_Kapanış": 96.12
+      "Dipten_Sonra_%": 7.44,
+      "Son_Kapanış": 96.19
     },
     {
       "Sembol": "HRL",
       "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 6.3,
-      "Son_Kapanış": 21.77
+      "Dipten_Sonra_%": 6.25,
+      "Son_Kapanış": 21.76
     },
     {
-      "Sembol": "ISRG",
+      "Sembol": "OWL",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 6.47,
-      "Son_Kapanış": 479.76
+      "Dipten_Sonra_%": 14.46,
+      "Son_Kapanış": 9.42
     }
   ],
-  "last_run": "2026-04-23 19:18:28"
+  "last_run": "2026-04-23 21:01:05"
 }
