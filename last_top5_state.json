@@ -3,33 +3,33 @@
     {
       "Sembol": "RDY",
       "Dip_Tarih": "2026-04-21",
-      "Dipten_Sonra_%": 6.7,
-      "Son_Kapanış": 13.62
+      "Dipten_Sonra_%": 7.05,
+      "Son_Kapanış": 13.67
     },
     {
       "Sembol": "SJM",
       "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 7.37,
-      "Son_Kapanış": 96.12
+      "Dipten_Sonra_%": 7.26,
+      "Son_Kapanış": 96.03
     },
     {
-      "Sembol": "HRL",
-      "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 5.66,
-      "Son_Kapanış": 21.64
-    },
-    {
-      "Sembol": "CDNS",
+      "Sembol": "PCOR",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 24.63,
-      "Son_Kapanış": 331.09
+      "Dipten_Sonra_%": 17.42,
+      "Son_Kapanış": 55.41
     },
     {
-      "Sembol": "NTNX",
+      "Sembol": "OKTA",
       "Dip_Tarih": "2026-04-10",
-      "Dipten_Sonra_%": 17.48,
-      "Son_Kapanış": 40.42
+      "Dipten_Sonra_%": 20.74,
+      "Son_Kapanış": 75.98
+    },
+    {
+      "Sembol": "ARE",
+      "Dip_Tarih": "2026-04-10",
+      "Dipten_Sonra_%": 11.22,
+      "Son_Kapanış": 47.39
     }
   ],
-  "last_run": "2026-04-24 18:58:55"
+  "last_run": "2026-04-24 20:04:33"
 }
