@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "TMUS",
-      "Dip_Tarih": "2026-04-27",
-      "Dipten_Sonra_%": 7.63,
-      "Son_Kapanış": 196.7
-    },
-    {
       "Sembol": "GD",
       "Dip_Tarih": "2026-04-27",
-      "Dipten_Sonra_%": 10.8,
-      "Son_Kapanış": 346.29
+      "Dipten_Sonra_%": 10.23,
+      "Son_Kapanış": 344.51
     },
     {
-      "Sembol": "EXE",
-      "Dip_Tarih": "2026-04-21",
-      "Dipten_Sonra_%": 7.02,
-      "Son_Kapanış": 100.88
+      "Sembol": "TMUS",
+      "Dip_Tarih": "2026-04-27",
+      "Dipten_Sonra_%": 9.44,
+      "Son_Kapanış": 200.0
     },
     {
       "Sembol": "RDY",
       "Dip_Tarih": "2026-04-21",
-      "Dipten_Sonra_%": 7.83,
-      "Son_Kapanış": 13.77
+      "Dipten_Sonra_%": 7.24,
+      "Son_Kapanış": 13.69
+    },
+    {
+      "Sembol": "EXE",
+      "Dip_Tarih": "2026-04-21",
+      "Dipten_Sonra_%": 5.68,
+      "Son_Kapanış": 99.61
     },
     {
       "Sembol": "SJM",
       "Dip_Tarih": "2026-04-13",
-      "Dipten_Sonra_%": 7.62,
-      "Son_Kapanış": 96.35
+      "Dipten_Sonra_%": 7.86,
+      "Son_Kapanış": 96.57
     }
   ],
-  "last_run": "2026-04-29 16:06:44"
+  "last_run": "2026-04-29 17:37:48"
 }
