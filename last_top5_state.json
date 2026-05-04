@@ -9,20 +9,20 @@
     {
       "Sembol": "LLY",
       "Dip_Tarih": "2026-04-29",
-      "Dipten_Sonra_%": 13.76,
-      "Son_Kapanış": 968.31
+      "Dipten_Sonra_%": 13.71,
+      "Son_Kapanış": 967.93
     },
     {
       "Sembol": "GD",
       "Dip_Tarih": "2026-04-27",
-      "Dipten_Sonra_%": 11.7,
-      "Son_Kapanış": 349.1
+      "Dipten_Sonra_%": 11.69,
+      "Son_Kapanış": 349.08
     },
     {
       "Sembol": "ABBV",
       "Dip_Tarih": "2026-04-27",
-      "Dipten_Sonra_%": 5.5,
-      "Son_Kapanış": 208.23
+      "Dipten_Sonra_%": 5.46,
+      "Son_Kapanış": 208.16
     },
     {
       "Sembol": "EXE",
@@ -31,5 +31,5 @@
       "Son_Kapanış": 100.77
     }
   ],
-  "last_run": "2026-05-04 20:22:54"
+  "last_run": "2026-05-04 22:08:20"
 }
