@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "RVTY",
+      "Sembol": "LLY",
       "Dip_Tarih": "2026-04-29",
-      "Dipten_Sonra_%": 12.01,
-      "Son_Kapanış": 92.14
+      "Dipten_Sonra_%": 15.77,
+      "Son_Kapanış": 985.41
     },
     {
-      "Sembol": "IQV",
+      "Sembol": "HEI-A",
       "Dip_Tarih": "2026-04-29",
-      "Dipten_Sonra_%": 8.08,
-      "Son_Kapanış": 169.32
-    },
-    {
-      "Sembol": "HEI",
-      "Dip_Tarih": "2026-04-29",
-      "Dipten_Sonra_%": 6.34,
-      "Son_Kapanış": 277.54
-    },
-    {
-      "Sembol": "FIG",
-      "Dip_Tarih": "2026-04-29",
-      "Dipten_Sonra_%": 13.43,
-      "Son_Kapanış": 19.12
+      "Dipten_Sonra_%": 6.85,
+      "Son_Kapanış": 215.07
     },
     {
       "Sembol": "IDXX",
       "Dip_Tarih": "2026-04-29",
-      "Dipten_Sonra_%": 4.31,
-      "Son_Kapanış": 577.53
+      "Dipten_Sonra_%": 3.2,
+      "Son_Kapanış": 571.36
+    },
+    {
+      "Sembol": "RVTY",
+      "Dip_Tarih": "2026-04-29",
+      "Dipten_Sonra_%": 12.91,
+      "Son_Kapanış": 92.88
+    },
+    {
+      "Sembol": "FIG",
+      "Dip_Tarih": "2026-04-29",
+      "Dipten_Sonra_%": 15.12,
+      "Son_Kapanış": 19.41
     }
   ],
-  "last_run": "2026-05-05 17:35:07"
+  "last_run": "2026-05-05 19:26:54"
 }
