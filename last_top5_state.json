@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "SONY",
-      "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 4.44,
-      "Son_Kapanış": 20.51
-    },
-    {
       "Sembol": "TXRH",
       "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 16.1,
-      "Son_Kapanış": 180.98
-    },
-    {
-      "Sembol": "RYAAY",
-      "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 8.9,
-      "Son_Kapanış": 57.98
+      "Dipten_Sonra_%": 17.12,
+      "Son_Kapanış": 182.56
     },
     {
       "Sembol": "AMCR",
       "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 9.01,
-      "Son_Kapanış": 40.24
+      "Dipten_Sonra_%": 8.45,
+      "Son_Kapanış": 40.03
+    },
+    {
+      "Sembol": "TAP",
+      "Dip_Tarih": "2026-05-04",
+      "Dipten_Sonra_%": 5.64,
+      "Son_Kapanış": 43.03
+    },
+    {
+      "Sembol": "RYAAY",
+      "Dip_Tarih": "2026-05-04",
+      "Dipten_Sonra_%": 8.73,
+      "Son_Kapanış": 57.89
     },
     {
       "Sembol": "THC",
       "Dip_Tarih": "2026-04-30",
-      "Dipten_Sonra_%": 8.04,
-      "Son_Kapanış": 191.37
+      "Dipten_Sonra_%": 7.22,
+      "Son_Kapanış": 189.9
     }
   ],
-  "last_run": "2026-05-08 15:30:40"
+  "last_run": "2026-05-08 17:25:06"
 }
