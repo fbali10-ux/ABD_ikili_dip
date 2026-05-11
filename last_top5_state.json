@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "VIPS",
+      "Sembol": "BRK-A",
       "Dip_Tarih": "2026-05-05",
-      "Dipten_Sonra_%": 4.32,
-      "Son_Kapanış": 14.73
-    },
-    {
-      "Sembol": "AMCR",
-      "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 8.63,
-      "Son_Kapanış": 40.1
-    },
-    {
-      "Sembol": "SONY",
-      "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 8.73,
-      "Son_Kapanış": 21.35
+      "Dipten_Sonra_%": 3.01,
+      "Son_Kapanış": 721000.0
     },
     {
       "Sembol": "TXRH",
       "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 17.23,
-      "Son_Kapanış": 182.74
+      "Dipten_Sonra_%": 17.74,
+      "Son_Kapanış": 183.54
+    },
+    {
+      "Sembol": "SONY",
+      "Dip_Tarih": "2026-05-04",
+      "Dipten_Sonra_%": 8.4,
+      "Son_Kapanış": 21.29
+    },
+    {
+      "Sembol": "AMCR",
+      "Dip_Tarih": "2026-05-04",
+      "Dipten_Sonra_%": 8.91,
+      "Son_Kapanış": 40.2
     },
     {
       "Sembol": "THC",
       "Dip_Tarih": "2026-04-30",
-      "Dipten_Sonra_%": 7.93,
-      "Son_Kapanış": 191.17
+      "Dipten_Sonra_%": 8.22,
+      "Son_Kapanış": 191.68
     }
   ],
-  "last_run": "2026-05-11 19:06:40"
+  "last_run": "2026-05-11 20:56:20"
 }
