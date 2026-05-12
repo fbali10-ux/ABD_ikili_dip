@@ -3,33 +3,33 @@
     {
       "Sembol": "BRK-A",
       "Dip_Tarih": "2026-05-05",
-      "Dipten_Sonra_%": 3.01,
-      "Son_Kapanış": 721000.0
+      "Dipten_Sonra_%": 3.29,
+      "Son_Kapanış": 723000.0
     },
     {
       "Sembol": "TXRH",
       "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 17.74,
-      "Son_Kapanış": 183.54
+      "Dipten_Sonra_%": 17.33,
+      "Son_Kapanış": 182.89
     },
     {
       "Sembol": "SONY",
       "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 8.4,
-      "Son_Kapanış": 21.29
-    },
-    {
-      "Sembol": "AMCR",
-      "Dip_Tarih": "2026-05-04",
-      "Dipten_Sonra_%": 8.91,
-      "Son_Kapanış": 40.2
+      "Dipten_Sonra_%": 12.73,
+      "Son_Kapanış": 22.14
     },
     {
       "Sembol": "THC",
       "Dip_Tarih": "2026-04-30",
-      "Dipten_Sonra_%": 8.22,
-      "Son_Kapanış": 191.68
+      "Dipten_Sonra_%": 9.95,
+      "Son_Kapanış": 194.75
+    },
+    {
+      "Sembol": "IQV",
+      "Dip_Tarih": "2026-04-29",
+      "Dipten_Sonra_%": 10.85,
+      "Son_Kapanış": 173.65
     }
   ],
-  "last_run": "2026-05-12 12:02:09"
+  "last_run": "2026-05-12 14:31:16"
 }
