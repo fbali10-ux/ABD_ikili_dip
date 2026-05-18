@@ -3,33 +3,33 @@
     {
       "Sembol": "TLK",
       "Dip_Tarih": "2026-05-15",
-      "Dipten_Sonra_%": 4.38,
-      "Son_Kapanış": 17.3
+      "Dipten_Sonra_%": 4.53,
+      "Son_Kapanış": 17.32
     },
     {
       "Sembol": "CPRT",
       "Dip_Tarih": "2026-05-15",
-      "Dipten_Sonra_%": 3.5,
-      "Son_Kapanış": 33.43
+      "Dipten_Sonra_%": 3.53,
+      "Son_Kapanış": 33.44
     },
     {
       "Sembol": "IT",
       "Dip_Tarih": "2026-05-14",
-      "Dipten_Sonra_%": 10.54,
-      "Son_Kapanış": 155.47
+      "Dipten_Sonra_%": 10.51,
+      "Son_Kapanış": 155.43
     },
     {
-      "Sembol": "AJG",
-      "Dip_Tarih": "2026-05-13",
-      "Dipten_Sonra_%": 8.01,
-      "Son_Kapanış": 207.37
+      "Sembol": "TRI",
+      "Dip_Tarih": "2026-05-14",
+      "Dipten_Sonra_%": 13.87,
+      "Son_Kapanış": 90.0
     },
     {
-      "Sembol": "SAP",
-      "Dip_Tarih": "2026-05-13",
-      "Dipten_Sonra_%": 7.75,
-      "Son_Kapanış": 173.29
+      "Sembol": "INFY",
+      "Dip_Tarih": "2026-05-14",
+      "Dipten_Sonra_%": 7.98,
+      "Son_Kapanış": 12.59
     }
   ],
-  "last_run": "2026-05-18 19:03:19"
+  "last_run": "2026-05-18 20:36:33"
 }
