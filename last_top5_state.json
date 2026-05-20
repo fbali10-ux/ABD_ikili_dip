@@ -13,23 +13,23 @@
       "Son_Kapanış": 26.03
     },
     {
-      "Sembol": "ASR",
+      "Sembol": "NKE",
       "Dip_Tarih": "2026-05-15",
-      "Dipten_Sonra_%": 4.85,
-      "Son_Kapanış": 310.5
-    },
-    {
-      "Sembol": "WSM",
-      "Dip_Tarih": "2026-05-15",
-      "Dipten_Sonra_%": 6.88,
-      "Son_Kapanış": 180.25
+      "Dipten_Sonra_%": 5.52,
+      "Son_Kapanış": 44.19
     },
     {
       "Sembol": "HRL",
       "Dip_Tarih": "2026-05-15",
       "Dipten_Sonra_%": 5.17,
       "Son_Kapanış": 20.76
+    },
+    {
+      "Sembol": "WSM",
+      "Dip_Tarih": "2026-05-15",
+      "Dipten_Sonra_%": 6.88,
+      "Son_Kapanış": 180.25
     }
   ],
-  "last_run": "2026-05-20 22:02:20"
+  "last_run": "2026-05-20 23:23:43"
 }
