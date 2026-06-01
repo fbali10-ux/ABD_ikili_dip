@@ -3,33 +3,33 @@
     {
       "Sembol": "LVS",
       "Dip_Tarih": "2026-05-22",
-      "Dipten_Sonra_%": 7.11,
-      "Son_Kapanış": 52.94
+      "Dipten_Sonra_%": 7.77,
+      "Son_Kapanış": 53.27
     },
     {
       "Sembol": "CAE",
       "Dip_Tarih": "2026-05-22",
-      "Dipten_Sonra_%": 11.44,
-      "Son_Kapanış": 25.81
+      "Dipten_Sonra_%": 11.4,
+      "Son_Kapanış": 25.8
     },
     {
       "Sembol": "AMTM",
       "Dip_Tarih": "2026-05-20",
-      "Dipten_Sonra_%": 7.24,
-      "Son_Kapanış": 24.13
+      "Dipten_Sonra_%": 6.98,
+      "Son_Kapanış": 24.07
     },
     {
-      "Sembol": "W",
+      "Sembol": "CCL",
       "Dip_Tarih": "2026-05-19",
-      "Dipten_Sonra_%": 26.89,
-      "Son_Kapanış": 72.84
+      "Dipten_Sonra_%": 15.15,
+      "Son_Kapanış": 27.51
     },
     {
-      "Sembol": "MOS",
+      "Sembol": "AMRZ",
       "Dip_Tarih": "2026-05-19",
-      "Dipten_Sonra_%": 9.18,
-      "Son_Kapanış": 23.36
+      "Dipten_Sonra_%": 11.39,
+      "Son_Kapanış": 53.79
     }
   ],
-  "last_run": "2026-06-01 18:46:48"
+  "last_run": "2026-06-01 22:20:40"
 }
