@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "ERIE",
-      "Dip_Tarih": "2026-06-03",
-      "Dipten_Sonra_%": 10.42,
-      "Son_Kapanış": 228.83
-    },
-    {
       "Sembol": "SNY",
       "Dip_Tarih": "2026-06-03",
-      "Dipten_Sonra_%": 3.87,
-      "Son_Kapanış": 44.01
+      "Dipten_Sonra_%": 3.94,
+      "Son_Kapanış": 44.04
+    },
+    {
+      "Sembol": "ERIE",
+      "Dip_Tarih": "2026-06-03",
+      "Dipten_Sonra_%": 8.93,
+      "Son_Kapanış": 225.75
     },
     {
       "Sembol": "MDT",
       "Dip_Tarih": "2026-06-02",
-      "Dipten_Sonra_%": 8.8,
-      "Son_Kapanış": 80.24
+      "Dipten_Sonra_%": 9.27,
+      "Son_Kapanış": 80.58
     },
     {
       "Sembol": "CBRE",
       "Dip_Tarih": "2026-06-01",
-      "Dipten_Sonra_%": 6.27,
-      "Son_Kapanış": 132.46
+      "Dipten_Sonra_%": 5.97,
+      "Son_Kapanış": 132.08
     },
     {
-      "Sembol": "PH",
+      "Sembol": "ACI",
       "Dip_Tarih": "2026-06-01",
-      "Dipten_Sonra_%": 8.31,
-      "Son_Kapanış": 891.68
+      "Dipten_Sonra_%": 4.62,
+      "Son_Kapanış": 16.18
     }
   ],
-  "last_run": "2026-06-08 14:57:48"
+  "last_run": "2026-06-08 18:02:09"
 }
