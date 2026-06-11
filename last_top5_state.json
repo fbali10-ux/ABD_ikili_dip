@@ -3,33 +3,33 @@
     {
       "Sembol": "CPNG",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 10.75,
-      "Son_Kapanış": 16.75
+      "Dipten_Sonra_%": 14.05,
+      "Son_Kapanış": 17.25
+    },
+    {
+      "Sembol": "CCK",
+      "Dip_Tarih": "2026-06-08",
+      "Dipten_Sonra_%": 6.32,
+      "Son_Kapanış": 97.86
     },
     {
       "Sembol": "KLAC",
-      "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 981.96,
-      "Son_Kapanış": 2310.68
+      "Dip_Tarih": "2026-06-08",
+      "Dipten_Sonra_%": 1051.99,
+      "Son_Kapanış": 2428.46
+    },
+    {
+      "Sembol": "AVY",
+      "Dip_Tarih": "2026-06-08",
+      "Dipten_Sonra_%": 3.96,
+      "Son_Kapanış": 159.07
     },
     {
       "Sembol": "MCD",
       "Dip_Tarih": "2026-06-04",
-      "Dipten_Sonra_%": 3.61,
-      "Son_Kapanış": 282.57
-    },
-    {
-      "Sembol": "TMUS",
-      "Dip_Tarih": "2026-06-04",
-      "Dipten_Sonra_%": 5.72,
-      "Son_Kapanış": 187.15
-    },
-    {
-      "Sembol": "TAP",
-      "Dip_Tarih": "2026-06-04",
-      "Dipten_Sonra_%": 6.06,
-      "Son_Kapanış": 40.76
+      "Dipten_Sonra_%": 4.89,
+      "Son_Kapanış": 286.05
     }
   ],
-  "last_run": "2026-06-11 17:04:49"
+  "last_run": "2026-06-11 19:45:28"
 }
