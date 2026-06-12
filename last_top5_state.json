@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "IAG",
+      "Dip_Tarih": "2026-06-10",
+      "Dipten_Sonra_%": 12.6,
+      "Son_Kapanış": 16.71
+    },
+    {
+      "Sembol": "PAC",
+      "Dip_Tarih": "2026-06-10",
+      "Dipten_Sonra_%": 7.17,
+      "Son_Kapanış": 237.63
+    },
+    {
+      "Sembol": "EMBJ",
+      "Dip_Tarih": "2026-06-10",
+      "Dipten_Sonra_%": 7.38,
+      "Son_Kapanış": 57.79
+    },
+    {
       "Sembol": "MOS",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 12.97,
-      "Son_Kapanış": 22.39
+      "Dipten_Sonra_%": 14.35,
+      "Son_Kapanış": 22.67
     },
     {
       "Sembol": "CPNG",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 9.82,
-      "Son_Kapanış": 16.6
-    },
-    {
-      "Sembol": "WMS",
-      "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 4.87,
-      "Son_Kapanış": 135.8
-    },
-    {
-      "Sembol": "AVY",
-      "Dip_Tarih": "2026-06-08",
-      "Dipten_Sonra_%": 4.38,
-      "Son_Kapanış": 159.71
-    },
-    {
-      "Sembol": "CCK",
-      "Dip_Tarih": "2026-06-08",
-      "Dipten_Sonra_%": 6.65,
-      "Son_Kapanış": 98.16
+      "Dipten_Sonra_%": 12.17,
+      "Son_Kapanış": 16.96
     }
   ],
-  "last_run": "2026-06-12 14:20:10"
+  "last_run": "2026-06-12 17:46:30"
 }
