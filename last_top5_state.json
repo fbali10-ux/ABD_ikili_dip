@@ -3,33 +3,33 @@
     {
       "Sembol": "MOS",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 14.48,
-      "Son_Kapanış": 22.69
+      "Dipten_Sonra_%": 17.79,
+      "Son_Kapanış": 23.34
     },
     {
-      "Sembol": "EMBJ",
+      "Sembol": "OR",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 7.4,
-      "Son_Kapanış": 57.8
+      "Dipten_Sonra_%": 15.92,
+      "Son_Kapanış": 36.48
     },
     {
-      "Sembol": "IAG",
+      "Sembol": "PAAS",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 12.2,
-      "Son_Kapanış": 16.65
+      "Dipten_Sonra_%": 16.43,
+      "Son_Kapanış": 51.42
     },
     {
-      "Sembol": "CPNG",
+      "Sembol": "AG",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 11.24,
-      "Son_Kapanış": 16.82
+      "Dipten_Sonra_%": 20.3,
+      "Son_Kapanış": 18.9
     },
     {
-      "Sembol": "PAC",
+      "Sembol": "EGO",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 6.83,
-      "Son_Kapanış": 236.89
+      "Dipten_Sonra_%": 20.08,
+      "Son_Kapanış": 33.55
     }
   ],
-  "last_run": "2026-06-15 11:02:38"
+  "last_run": "2026-06-15 16:26:52"
 }
