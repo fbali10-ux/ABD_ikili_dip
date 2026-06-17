@@ -3,33 +3,33 @@
     {
       "Sembol": "HLI",
       "Dip_Tarih": "2026-06-11",
-      "Dipten_Sonra_%": 5.56,
-      "Son_Kapanış": 143.16
+      "Dipten_Sonra_%": 6.61,
+      "Son_Kapanış": 144.59
     },
     {
-      "Sembol": "AGI",
-      "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 16.39,
-      "Son_Kapanış": 38.42
+      "Sembol": "TRU",
+      "Dip_Tarih": "2026-06-11",
+      "Dipten_Sonra_%": 6.03,
+      "Son_Kapanış": 69.66
     },
     {
       "Sembol": "WMS",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 10.6,
-      "Son_Kapanış": 143.23
+      "Dipten_Sonra_%": 11.79,
+      "Son_Kapanış": 144.77
     },
     {
-      "Sembol": "CEG",
+      "Sembol": "HL",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 10.61,
-      "Son_Kapanış": 268.0
+      "Dipten_Sonra_%": 22.63,
+      "Son_Kapanış": 17.23
     },
     {
-      "Sembol": "GFI",
+      "Sembol": "EQX",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 18.19,
-      "Son_Kapanış": 39.63
+      "Dipten_Sonra_%": 21.02,
+      "Son_Kapanış": 11.77
     }
   ],
-  "last_run": "2026-06-17 11:54:57"
+  "last_run": "2026-06-17 15:34:04"
 }
