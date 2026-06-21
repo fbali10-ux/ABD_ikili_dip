@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "GRAB",
+      "Sembol": "SUZ",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 9.17,
-      "Son_Kapanış": 3.57
+      "Dipten_Sonra_%": 4.61,
+      "Son_Kapanış": 8.39
     },
     {
-      "Sembol": "OR",
+      "Sembol": "CEG",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 14.59,
-      "Son_Kapanış": 36.06
+      "Dipten_Sonra_%": 13.11,
+      "Son_Kapanış": 274.06
+    },
+    {
+      "Sembol": "CPNG",
+      "Dip_Tarih": "2026-06-10",
+      "Dipten_Sonra_%": 19.05,
+      "Son_Kapanış": 18.0
+    },
+    {
+      "Sembol": "EGO",
+      "Dip_Tarih": "2026-06-10",
+      "Dipten_Sonra_%": 18.29,
+      "Son_Kapanış": 33.05
     },
     {
       "Sembol": "WMS",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 7.46,
-      "Son_Kapanış": 139.16
-    },
-    {
-      "Sembol": "EMBJ",
-      "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 13.92,
-      "Son_Kapanış": 61.31
-    },
-    {
-      "Sembol": "AU",
-      "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 15.8,
-      "Son_Kapanış": 90.87
+      "Dipten_Sonra_%": 13.61,
+      "Son_Kapanış": 147.12
     }
   ],
-  "last_run": "2026-06-21 04:12:15"
+  "last_run": "2026-06-21 09:04:58"
 }
