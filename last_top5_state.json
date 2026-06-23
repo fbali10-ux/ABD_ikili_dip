@@ -21,8 +21,8 @@
     {
       "Sembol": "PAC",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 10.26,
-      "Son_Kapanış": 244.48
+      "Dipten_Sonra_%": 10.08,
+      "Son_Kapanış": 244.1
     },
     {
       "Sembol": "EMBJ",
@@ -31,5 +31,5 @@
       "Son_Kapanış": 61.08
     }
   ],
-  "last_run": "2026-06-23 20:11:28"
+  "last_run": "2026-06-23 22:19:14"
 }
