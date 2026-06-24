@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "HSY",
+      "Dip_Tarih": "2026-06-22",
+      "Dipten_Sonra_%": 6.4,
+      "Son_Kapanış": 181.82
+    },
+    {
+      "Sembol": "TRU",
+      "Dip_Tarih": "2026-06-22",
+      "Dipten_Sonra_%": 7.93,
+      "Son_Kapanış": 69.54
+    },
+    {
+      "Sembol": "BDX",
+      "Dip_Tarih": "2026-06-22",
+      "Dipten_Sonra_%": 4.93,
+      "Son_Kapanış": 147.65
+    },
+    {
       "Sembol": "AZN",
       "Dip_Tarih": "2026-06-18",
-      "Dipten_Sonra_%": 3.48,
-      "Son_Kapanış": 181.02
+      "Dipten_Sonra_%": 4.57,
+      "Son_Kapanış": 182.93
     },
     {
-      "Sembol": "GMED",
-      "Dip_Tarih": "2026-06-17",
-      "Dipten_Sonra_%": 8.01,
-      "Son_Kapanış": 81.46
-    },
-    {
-      "Sembol": "ONC",
-      "Dip_Tarih": "2026-06-11",
-      "Dipten_Sonra_%": 6.09,
-      "Son_Kapanış": 276.13
-    },
-    {
-      "Sembol": "INSM",
-      "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 11.18,
-      "Son_Kapanış": 102.15
-    },
-    {
-      "Sembol": "WMS",
-      "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 8.24,
-      "Son_Kapanış": 140.17
+      "Sembol": "ALNY",
+      "Dip_Tarih": "2026-06-18",
+      "Dipten_Sonra_%": 8.46,
+      "Son_Kapanış": 301.63
     }
   ],
-  "last_run": "2026-06-24 13:33:53"
+  "last_run": "2026-06-24 16:30:38"
 }
