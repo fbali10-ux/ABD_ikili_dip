@@ -9,8 +9,8 @@
     {
       "Sembol": "GMED",
       "Dip_Tarih": "2026-06-17",
-      "Dipten_Sonra_%": 6.13,
-      "Son_Kapanış": 80.04
+      "Dipten_Sonra_%": 8.01,
+      "Son_Kapanış": 81.46
     },
     {
       "Sembol": "ONC",
@@ -19,17 +19,17 @@
       "Son_Kapanış": 276.13
     },
     {
-      "Sembol": "PAC",
+      "Sembol": "INSM",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 10.08,
-      "Son_Kapanış": 244.1
+      "Dipten_Sonra_%": 11.18,
+      "Son_Kapanış": 102.15
     },
     {
-      "Sembol": "EMBJ",
+      "Sembol": "WMS",
       "Dip_Tarih": "2026-06-10",
-      "Dipten_Sonra_%": 13.49,
-      "Son_Kapanış": 61.08
+      "Dipten_Sonra_%": 8.24,
+      "Son_Kapanış": 140.17
     }
   ],
-  "last_run": "2026-06-24 11:00:07"
+  "last_run": "2026-06-24 13:33:53"
 }
