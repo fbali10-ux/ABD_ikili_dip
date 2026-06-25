@@ -3,33 +3,33 @@
     {
       "Sembol": "BDX",
       "Dip_Tarih": "2026-06-22",
-      "Dipten_Sonra_%": 5.02,
-      "Son_Kapanış": 147.77
+      "Dipten_Sonra_%": 8.03,
+      "Son_Kapanış": 152.01
     },
     {
       "Sembol": "TRU",
       "Dip_Tarih": "2026-06-22",
-      "Dipten_Sonra_%": 5.54,
-      "Son_Kapanış": 68.0
+      "Dipten_Sonra_%": 6.18,
+      "Son_Kapanış": 68.41
     },
     {
-      "Sembol": "GDDY",
+      "Sembol": "PODD",
       "Dip_Tarih": "2026-06-22",
-      "Dipten_Sonra_%": 8.45,
-      "Son_Kapanış": 81.33
-    },
-    {
-      "Sembol": "HSY",
-      "Dip_Tarih": "2026-06-22",
-      "Dipten_Sonra_%": 7.11,
-      "Son_Kapanış": 183.04
+      "Dipten_Sonra_%": 10.12,
+      "Son_Kapanış": 153.04
     },
     {
       "Sembol": "AZN",
       "Dip_Tarih": "2026-06-18",
-      "Dipten_Sonra_%": 4.62,
-      "Son_Kapanış": 183.02
+      "Dipten_Sonra_%": 6.21,
+      "Son_Kapanış": 185.79
+    },
+    {
+      "Sembol": "WBD",
+      "Dip_Tarih": "2026-06-18",
+      "Dipten_Sonra_%": 3.42,
+      "Son_Kapanış": 27.09
     }
   ],
-  "last_run": "2026-06-25 12:26:34"
+  "last_run": "2026-06-25 15:50:29"
 }
