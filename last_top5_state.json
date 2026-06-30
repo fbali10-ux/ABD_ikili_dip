@@ -3,8 +3,8 @@
     {
       "Sembol": "TW",
       "Dip_Tarih": "2026-06-25",
-      "Dipten_Sonra_%": 8.88,
-      "Son_Kapanış": 99.62
+      "Dipten_Sonra_%": 8.92,
+      "Son_Kapanış": 99.66
     },
     {
       "Sembol": "AVAV",
@@ -15,21 +15,21 @@
     {
       "Sembol": "SYM",
       "Dip_Tarih": "2026-06-23",
-      "Dipten_Sonra_%": 16.96,
-      "Son_Kapanış": 45.11
+      "Dipten_Sonra_%": 16.54,
+      "Son_Kapanış": 44.95
     },
     {
-      "Sembol": "GDDY",
+      "Sembol": "CHTR",
       "Dip_Tarih": "2026-06-22",
-      "Dipten_Sonra_%": 13.31,
-      "Son_Kapanış": 84.97
+      "Dipten_Sonra_%": 13.28,
+      "Son_Kapanış": 142.21
     },
     {
       "Sembol": "ORLY",
       "Dip_Tarih": "2026-06-22",
-      "Dipten_Sonra_%": 7.43,
-      "Son_Kapanış": 91.99
+      "Dipten_Sonra_%": 7.54,
+      "Son_Kapanış": 92.09
     }
   ],
-  "last_run": "2026-06-30 20:03:34"
+  "last_run": "2026-06-30 21:36:35"
 }
