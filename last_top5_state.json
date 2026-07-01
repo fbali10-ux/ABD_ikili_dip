@@ -19,17 +19,17 @@
       "Son_Kapanış": 44.95
     },
     {
-      "Sembol": "JKHY",
+      "Sembol": "CHTR",
       "Dip_Tarih": "2026-06-22",
-      "Dipten_Sonra_%": 11.6,
-      "Son_Kapanış": 137.74
+      "Dipten_Sonra_%": 13.28,
+      "Son_Kapanış": 142.21
     },
     {
-      "Sembol": "PODD",
+      "Sembol": "ORLY",
       "Dip_Tarih": "2026-06-22",
-      "Dipten_Sonra_%": 9.56,
-      "Son_Kapanış": 152.25
+      "Dipten_Sonra_%": 7.54,
+      "Son_Kapanış": 92.09
     }
   ],
-  "last_run": "2026-07-01 03:48:57"
+  "last_run": "2026-07-01 08:19:27"
 }
