@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "SF",
+      "Sembol": "SNN",
+      "Dip_Tarih": "2026-07-01",
+      "Dipten_Sonra_%": 4.98,
+      "Son_Kapanış": 30.16
+    },
+    {
+      "Sembol": "PEP",
+      "Dip_Tarih": "2026-06-30",
+      "Dipten_Sonra_%": 6.66,
+      "Son_Kapanış": 144.42
+    },
+    {
+      "Sembol": "ISRG",
+      "Dip_Tarih": "2026-06-30",
+      "Dipten_Sonra_%": 5.51,
+      "Son_Kapanış": 419.61
+    },
+    {
+      "Sembol": "HLI",
       "Dip_Tarih": "2026-06-29",
-      "Dipten_Sonra_%": 5.69,
-      "Son_Kapanış": 71.85
+      "Dipten_Sonra_%": 5.88,
+      "Son_Kapanış": 140.73
     },
     {
-      "Sembol": "NKE",
-      "Dip_Tarih": "2026-06-26",
-      "Dipten_Sonra_%": 5.67,
-      "Son_Kapanış": 43.06
-    },
-    {
-      "Sembol": "YMM",
-      "Dip_Tarih": "2026-06-25",
-      "Dipten_Sonra_%": 12.2,
-      "Son_Kapanış": 8.46
-    },
-    {
-      "Sembol": "EFX",
-      "Dip_Tarih": "2026-06-25",
-      "Dipten_Sonra_%": 6.74,
-      "Son_Kapanış": 162.17
-    },
-    {
-      "Sembol": "EDU",
-      "Dip_Tarih": "2026-06-25",
-      "Dipten_Sonra_%": 7.34,
-      "Son_Kapanış": 47.7
+      "Sembol": "NDAQ",
+      "Dip_Tarih": "2026-06-29",
+      "Dipten_Sonra_%": 9.79,
+      "Son_Kapanış": 84.37
     }
   ],
-  "last_run": "2026-07-02 13:06:04"
+  "last_run": "2026-07-02 15:26:11"
 }
