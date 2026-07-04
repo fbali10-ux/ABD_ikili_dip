@@ -13,23 +13,23 @@
       "Son_Kapanış": 426.01
     },
     {
-      "Sembol": "PEP",
-      "Dip_Tarih": "2026-06-30",
-      "Dipten_Sonra_%": 6.51,
-      "Son_Kapanış": 144.22
-    },
-    {
       "Sembol": "IDXX",
       "Dip_Tarih": "2026-06-30",
       "Dipten_Sonra_%": 5.96,
       "Son_Kapanış": 557.8
     },
     {
-      "Sembol": "NOC",
+      "Sembol": "PEP",
+      "Dip_Tarih": "2026-06-30",
+      "Dipten_Sonra_%": 6.51,
+      "Son_Kapanış": 144.22
+    },
+    {
+      "Sembol": "SF",
       "Dip_Tarih": "2026-06-29",
-      "Dipten_Sonra_%": 10.68,
-      "Son_Kapanış": 549.01
+      "Dipten_Sonra_%": 7.63,
+      "Son_Kapanış": 73.17
     }
   ],
-  "last_run": "2026-07-04 19:18:22"
+  "last_run": "2026-07-04 21:03:48"
 }
