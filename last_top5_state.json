@@ -7,10 +7,10 @@
       "Son_Kapanış": 30.25
     },
     {
-      "Sembol": "ISRG",
+      "Sembol": "IDXX",
       "Dip_Tarih": "2026-06-30",
-      "Dipten_Sonra_%": 7.12,
-      "Son_Kapanış": 426.01
+      "Dipten_Sonra_%": 5.96,
+      "Son_Kapanış": 557.8
     },
     {
       "Sembol": "PEP",
@@ -19,17 +19,17 @@
       "Son_Kapanış": 144.22
     },
     {
-      "Sembol": "IDXX",
+      "Sembol": "ISRG",
       "Dip_Tarih": "2026-06-30",
-      "Dipten_Sonra_%": 5.96,
-      "Son_Kapanış": 557.8
+      "Dipten_Sonra_%": 7.12,
+      "Son_Kapanış": 426.01
     },
     {
-      "Sembol": "FNV",
+      "Sembol": "NOC",
       "Dip_Tarih": "2026-06-29",
-      "Dipten_Sonra_%": 4.98,
-      "Son_Kapanış": 217.58
+      "Dipten_Sonra_%": 10.68,
+      "Son_Kapanış": 549.01
     }
   ],
-  "last_run": "2026-07-06 05:18:07"
+  "last_run": "2026-07-06 10:24:55"
 }
