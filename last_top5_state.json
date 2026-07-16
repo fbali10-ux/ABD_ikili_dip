@@ -3,33 +3,33 @@
     {
       "Sembol": "CSGP",
       "Dip_Tarih": "2026-07-14",
-      "Dipten_Sonra_%": 8.27,
-      "Son_Kapanış": 29.97
-    },
-    {
-      "Sembol": "HTHT",
-      "Dip_Tarih": "2026-07-13",
-      "Dipten_Sonra_%": 4.38,
-      "Son_Kapanış": 42.67
+      "Dipten_Sonra_%": 9.28,
+      "Son_Kapanış": 30.25
     },
     {
       "Sembol": "HLI",
       "Dip_Tarih": "2026-07-13",
-      "Dipten_Sonra_%": 7.61,
-      "Son_Kapanış": 142.6
+      "Dipten_Sonra_%": 7.26,
+      "Son_Kapanış": 142.13
     },
     {
-      "Sembol": "STLA",
-      "Dip_Tarih": "2026-07-09",
-      "Dipten_Sonra_%": 12.1,
-      "Son_Kapanış": 5.97
+      "Sembol": "HTHT",
+      "Dip_Tarih": "2026-07-13",
+      "Dipten_Sonra_%": 4.22,
+      "Son_Kapanış": 42.6
     },
     {
-      "Sembol": "DDS",
+      "Sembol": "GGG",
       "Dip_Tarih": "2026-07-09",
-      "Dipten_Sonra_%": 6.72,
-      "Son_Kapanış": 544.7
+      "Dipten_Sonra_%": 3.64,
+      "Son_Kapanış": 75.86
+    },
+    {
+      "Sembol": "VICI",
+      "Dip_Tarih": "2026-07-09",
+      "Dipten_Sonra_%": 4.42,
+      "Son_Kapanış": 27.08
     }
   ],
-  "last_run": "2026-07-16 16:35:19"
+  "last_run": "2026-07-16 18:18:08"
 }
