@@ -19,17 +19,17 @@
       "Son_Kapanış": 42.68
     },
     {
-      "Sembol": "GGG",
+      "Sembol": "DDS",
       "Dip_Tarih": "2026-07-09",
-      "Dipten_Sonra_%": 4.07,
-      "Son_Kapanış": 76.17
+      "Dipten_Sonra_%": 6.77,
+      "Son_Kapanış": 544.92
     },
     {
-      "Sembol": "COST",
+      "Sembol": "VICI",
       "Dip_Tarih": "2026-07-09",
-      "Dipten_Sonra_%": 3.57,
-      "Son_Kapanış": 945.57
+      "Dipten_Sonra_%": 4.7,
+      "Son_Kapanış": 27.15
     }
   ],
-  "last_run": "2026-07-17 03:03:45"
+  "last_run": "2026-07-17 05:53:55"
 }
