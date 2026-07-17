@@ -15,8 +15,8 @@
     {
       "Sembol": "VICI",
       "Dip_Tarih": "2026-07-09",
-      "Dipten_Sonra_%": 3.59,
-      "Son_Kapanış": 26.86
+      "Dipten_Sonra_%": 3.63,
+      "Son_Kapanış": 26.87
     },
     {
       "Sembol": "DDS",
@@ -25,11 +25,11 @@
       "Son_Kapanış": 550.93
     },
     {
-      "Sembol": "HAS",
+      "Sembol": "GAP",
       "Dip_Tarih": "2026-07-08",
-      "Dipten_Sonra_%": 7.5,
-      "Son_Kapanış": 81.55
+      "Dipten_Sonra_%": 10.9,
+      "Son_Kapanış": 20.35
     }
   ],
-  "last_run": "2026-07-17 20:20:12"
+  "last_run": "2026-07-17 22:01:09"
 }
