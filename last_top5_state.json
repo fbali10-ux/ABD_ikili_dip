@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "CSGP",
-      "Dip_Tarih": "2026-07-14",
-      "Dipten_Sonra_%": 7.73,
-      "Son_Kapanış": 29.82
-    },
-    {
       "Sembol": "HLI",
       "Dip_Tarih": "2026-07-13",
-      "Dipten_Sonra_%": 5.2,
-      "Son_Kapanış": 139.41
+      "Dipten_Sonra_%": 5.54,
+      "Son_Kapanış": 139.86
     },
     {
       "Sembol": "DDS",
       "Dip_Tarih": "2026-07-09",
-      "Dipten_Sonra_%": 7.67,
-      "Son_Kapanış": 549.56
+      "Dipten_Sonra_%": 8.98,
+      "Son_Kapanış": 556.22
     },
     {
       "Sembol": "VICI",
       "Dip_Tarih": "2026-07-09",
-      "Dipten_Sonra_%": 3.3,
-      "Son_Kapanış": 26.78
+      "Dipten_Sonra_%": 3.2,
+      "Son_Kapanış": 26.76
     },
     {
-      "Sembol": "GAP",
+      "Sembol": "GLPI",
       "Dip_Tarih": "2026-07-08",
-      "Dipten_Sonra_%": 9.51,
-      "Son_Kapanış": 20.09
+      "Dipten_Sonra_%": 4.08,
+      "Son_Kapanış": 44.66
+    },
+    {
+      "Sembol": "BSBR",
+      "Dip_Tarih": "2026-07-08",
+      "Dipten_Sonra_%": 6.75,
+      "Son_Kapanış": 5.38
     }
   ],
-  "last_run": "2026-07-20 18:14:46"
+  "last_run": "2026-07-20 20:04:41"
 }
