@@ -1,6 +1,12 @@
 {
   "top5": [
     {
+      "Sembol": "LHX",
+      "Dip_Tarih": "2026-07-21",
+      "Dipten_Sonra_%": 9.12,
+      "Son_Kapanış": 303.05
+    },
+    {
       "Sembol": "CACI",
       "Dip_Tarih": "2026-07-21",
       "Dipten_Sonra_%": 9.04,
@@ -9,27 +15,21 @@
     {
       "Sembol": "GGG",
       "Dip_Tarih": "2026-07-21",
-      "Dipten_Sonra_%": 6.32,
-      "Son_Kapanış": 77.75
+      "Dipten_Sonra_%": 7.7,
+      "Son_Kapanış": 78.76
     },
     {
       "Sembol": "HII",
       "Dip_Tarih": "2026-07-21",
-      "Dipten_Sonra_%": 6.82,
-      "Son_Kapanış": 287.09
+      "Dipten_Sonra_%": 8.54,
+      "Son_Kapanış": 291.7
     },
     {
-      "Sembol": "LHX",
-      "Dip_Tarih": "2026-07-21",
-      "Dipten_Sonra_%": 7.91,
-      "Son_Kapanış": 299.67
-    },
-    {
-      "Sembol": "EGO",
+      "Sembol": "RGLD",
       "Dip_Tarih": "2026-07-20",
-      "Dipten_Sonra_%": 15.36,
-      "Son_Kapanış": 31.99
+      "Dipten_Sonra_%": 7.3,
+      "Son_Kapanış": 201.04
     }
   ],
-  "last_run": "2026-07-24 11:49:06"
+  "last_run": "2026-07-24 13:49:04"
 }
