@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "HII",
-      "Dip_Tarih": "2026-07-21",
-      "Dipten_Sonra_%": 6.82,
-      "Son_Kapanış": 287.09
-    },
-    {
       "Sembol": "GGG",
       "Dip_Tarih": "2026-07-21",
-      "Dipten_Sonra_%": 6.32,
-      "Son_Kapanış": 77.75
-    },
-    {
-      "Sembol": "CACI",
-      "Dip_Tarih": "2026-07-21",
-      "Dipten_Sonra_%": 9.04,
-      "Son_Kapanış": 480.61
+      "Dipten_Sonra_%": 8.71,
+      "Son_Kapanış": 79.5
     },
     {
       "Sembol": "LHX",
       "Dip_Tarih": "2026-07-21",
-      "Dipten_Sonra_%": 7.91,
-      "Son_Kapanış": 299.67
+      "Dipten_Sonra_%": 8.1,
+      "Son_Kapanış": 300.21
     },
     {
-      "Sembol": "KEP",
+      "Sembol": "CACI",
+      "Dip_Tarih": "2026-07-21",
+      "Dipten_Sonra_%": 10.44,
+      "Son_Kapanış": 486.77
+    },
+    {
+      "Sembol": "HII",
+      "Dip_Tarih": "2026-07-21",
+      "Dipten_Sonra_%": 7.01,
+      "Son_Kapanış": 287.59
+    },
+    {
+      "Sembol": "EXE",
       "Dip_Tarih": "2026-07-20",
-      "Dipten_Sonra_%": 6.63,
-      "Son_Kapanış": 12.07
+      "Dipten_Sonra_%": 5.26,
+      "Son_Kapanış": 91.52
     }
   ],
-  "last_run": "2026-07-27 02:53:52"
+  "last_run": "2026-07-27 06:36:57"
 }
