@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "CELH",
+      "Dip_Tarih": "2026-07-24",
+      "Dipten_Sonra_%": 8.26,
+      "Son_Kapanış": 29.36
+    },
+    {
       "Sembol": "CMCSA",
       "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 10.4,
-      "Son_Kapanış": 24.2
+      "Dipten_Sonra_%": 10.33,
+      "Son_Kapanış": 24.18
     },
     {
-      "Sembol": "TTD",
+      "Sembol": "TU",
       "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 12.09,
-      "Son_Kapanış": 18.82
-    },
-    {
-      "Sembol": "LOW",
-      "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 7.5,
-      "Son_Kapanış": 217.05
+      "Dipten_Sonra_%": 5.69,
+      "Son_Kapanış": 10.69
     },
     {
       "Sembol": "PEP",
       "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 5.31,
-      "Son_Kapanış": 142.12
+      "Dipten_Sonra_%": 5.63,
+      "Son_Kapanış": 142.55
     },
     {
       "Sembol": "MCD",
       "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 3.74,
-      "Son_Kapanış": 272.62
+      "Dipten_Sonra_%": 4.13,
+      "Son_Kapanış": 273.65
     }
   ],
-  "last_run": "2026-07-28 16:48:59"
+  "last_run": "2026-07-28 18:22:02"
 }
