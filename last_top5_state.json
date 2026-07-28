@@ -1,6 +1,18 @@
 {
   "top5": [
     {
+      "Sembol": "CHTR",
+      "Dip_Tarih": "2026-07-24",
+      "Dipten_Sonra_%": 6.73,
+      "Son_Kapanış": 131.61
+    },
+    {
+      "Sembol": "LOW",
+      "Dip_Tarih": "2026-07-23",
+      "Dipten_Sonra_%": 4.77,
+      "Son_Kapanış": 211.55
+    },
+    {
       "Sembol": "PEP",
       "Dip_Tarih": "2026-07-23",
       "Dipten_Sonra_%": 3.59,
@@ -13,23 +25,11 @@
       "Son_Kapanış": 171.01
     },
     {
-      "Sembol": "LOW",
+      "Sembol": "CSGP",
       "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 4.77,
-      "Son_Kapanış": 211.55
-    },
-    {
-      "Sembol": "AZO",
-      "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 5.19,
-      "Son_Kapanış": 3075.26
-    },
-    {
-      "Sembol": "STN",
-      "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 5.75,
-      "Son_Kapanış": 70.59
+      "Dipten_Sonra_%": 7.48,
+      "Son_Kapanış": 29.17
     }
   ],
-  "last_run": "2026-07-28 00:09:07"
+  "last_run": "2026-07-28 03:35:26"
 }
