@@ -13,16 +13,16 @@
       "Son_Kapanış": 3075.26
     },
     {
-      "Sembol": "STN",
-      "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 5.75,
-      "Son_Kapanış": 70.59
-    },
-    {
       "Sembol": "LOW",
       "Dip_Tarih": "2026-07-23",
       "Dipten_Sonra_%": 4.77,
       "Son_Kapanış": 211.55
+    },
+    {
+      "Sembol": "STN",
+      "Dip_Tarih": "2026-07-23",
+      "Dipten_Sonra_%": 5.75,
+      "Son_Kapanış": 70.59
     },
     {
       "Sembol": "SAP",
@@ -31,5 +31,5 @@
       "Son_Kapanış": 171.01
     }
   ],
-  "last_run": "2026-07-29 06:00:10"
+  "last_run": "2026-07-29 08:46:55"
 }
