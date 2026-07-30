@@ -3,33 +3,33 @@
     {
       "Sembol": "EME",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 19.36,
-      "Son_Kapanış": 802.67
+      "Dipten_Sonra_%": 19.37,
+      "Son_Kapanış": 802.74
     },
     {
       "Sembol": "PKX",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 10.71,
-      "Son_Kapanış": 53.9
+      "Dipten_Sonra_%": 11.42,
+      "Son_Kapanış": 54.24
     },
     {
       "Sembol": "CHTR",
       "Dip_Tarih": "2026-07-24",
-      "Dipten_Sonra_%": 13.44,
-      "Son_Kapanış": 139.88
+      "Dipten_Sonra_%": 14.16,
+      "Son_Kapanış": 140.77
     },
     {
-      "Sembol": "PEP",
+      "Sembol": "TU",
       "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 3.62,
-      "Son_Kapanış": 139.83
+      "Dipten_Sonra_%": 6.48,
+      "Son_Kapanış": 10.77
     },
     {
-      "Sembol": "CMCSA",
+      "Sembol": "CSGP",
       "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 7.32,
-      "Son_Kapanış": 23.52
+      "Dipten_Sonra_%": 8.12,
+      "Son_Kapanış": 29.34
     }
   ],
-  "last_run": "2026-07-30 17:33:31"
+  "last_run": "2026-07-30 19:32:29"
 }
