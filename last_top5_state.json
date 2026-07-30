@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "EME",
-      "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 19.37,
-      "Son_Kapanış": 802.74
-    },
-    {
       "Sembol": "PKX",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 11.42,
-      "Son_Kapanış": 54.24
+      "Dipten_Sonra_%": 11.94,
+      "Son_Kapanış": 54.49
+    },
+    {
+      "Sembol": "EME",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 19.32,
+      "Son_Kapanış": 802.37
+    },
+    {
+      "Sembol": "CELH",
+      "Dip_Tarih": "2026-07-24",
+      "Dipten_Sonra_%": 8.22,
+      "Son_Kapanış": 29.35
     },
     {
       "Sembol": "CHTR",
       "Dip_Tarih": "2026-07-24",
-      "Dipten_Sonra_%": 14.16,
-      "Son_Kapanış": 140.77
+      "Dipten_Sonra_%": 15.16,
+      "Son_Kapanış": 142.0
     },
     {
-      "Sembol": "TU",
-      "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 6.48,
-      "Son_Kapanış": 10.77
-    },
-    {
-      "Sembol": "CSGP",
-      "Dip_Tarih": "2026-07-23",
-      "Dipten_Sonra_%": 8.12,
-      "Son_Kapanış": 29.34
+      "Sembol": "NIO",
+      "Dip_Tarih": "2026-07-24",
+      "Dipten_Sonra_%": 7.8,
+      "Son_Kapanış": 4.84
     }
   ],
-  "last_run": "2026-07-30 19:32:29"
+  "last_run": "2026-07-30 21:19:11"
 }
