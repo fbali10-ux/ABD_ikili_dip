@@ -7,16 +7,16 @@
       "Son_Kapanış": 556.52
     },
     {
-      "Sembol": "EME",
-      "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 18.58,
-      "Son_Kapanış": 797.43
-    },
-    {
       "Sembol": "PKX",
       "Dip_Tarih": "2026-07-29",
       "Dipten_Sonra_%": 9.22,
       "Son_Kapanış": 53.17
+    },
+    {
+      "Sembol": "EME",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 18.58,
+      "Son_Kapanış": 797.43
     },
     {
       "Sembol": "WBD",
@@ -31,5 +31,5 @@
       "Son_Kapanış": 4.88
     }
   ],
-  "last_run": "2026-08-01 16:14:37"
+  "last_run": "2026-08-01 18:06:41"
 }
