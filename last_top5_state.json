@@ -3,33 +3,33 @@
     {
       "Sembol": "UI",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 6.44,
-      "Son_Kapanış": 556.52
-    },
-    {
-      "Sembol": "EME",
-      "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 18.58,
-      "Son_Kapanış": 797.43
+      "Dipten_Sonra_%": 5.35,
+      "Son_Kapanış": 550.82
     },
     {
       "Sembol": "PKX",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 9.22,
-      "Son_Kapanış": 53.17
+      "Dipten_Sonra_%": 8.46,
+      "Son_Kapanış": 52.8
     },
     {
-      "Sembol": "WBD",
-      "Dip_Tarih": "2026-07-27",
-      "Dipten_Sonra_%": 4.03,
-      "Son_Kapanış": 26.3
+      "Sembol": "FTAI",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 12.74,
+      "Son_Kapanış": 222.52
     },
     {
-      "Sembol": "NIO",
-      "Dip_Tarih": "2026-07-24",
-      "Dipten_Sonra_%": 8.69,
-      "Son_Kapanış": 4.88
+      "Sembol": "EME",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 16.75,
+      "Son_Kapanış": 785.1
+    },
+    {
+      "Sembol": "CNM",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 7.71,
+      "Son_Kapanış": 45.63
     }
   ],
-  "last_run": "2026-08-03 10:50:03"
+  "last_run": "2026-08-03 13:51:34"
 }
