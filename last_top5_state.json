@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "IREN",
-      "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 34.88,
-      "Son_Kapanış": 39.53
-    },
-    {
-      "Sembol": "EME",
-      "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 21.21,
-      "Son_Kapanış": 815.13
-    },
-    {
-      "Sembol": "PKX",
-      "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 8.73,
-      "Son_Kapanış": 52.93
-    },
-    {
       "Sembol": "UI",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 5.36,
-      "Son_Kapanış": 550.91
+      "Dipten_Sonra_%": 4.93,
+      "Son_Kapanış": 548.66
     },
     {
-      "Sembol": "AEIS",
+      "Sembol": "CRWV",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 18.22,
-      "Son_Kapanış": 298.49
+      "Dipten_Sonra_%": 41.01,
+      "Son_Kapanış": 85.76
+    },
+    {
+      "Sembol": "IREN",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 35.62,
+      "Son_Kapanış": 39.75
+    },
+    {
+      "Sembol": "KTOS",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 12.15,
+      "Son_Kapanış": 49.21
+    },
+    {
+      "Sembol": "CNM",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 7.98,
+      "Son_Kapanış": 45.75
     }
   ],
-  "last_run": "2026-08-03 19:01:13"
+  "last_run": "2026-08-03 20:48:55"
 }
