@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "IREN",
+      "Dip_Tarih": "2026-07-29",
+      "Dipten_Sonra_%": 34.88,
+      "Son_Kapanış": 39.53
+    },
+    {
       "Sembol": "EME",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 21.16,
-      "Son_Kapanış": 814.78
+      "Dipten_Sonra_%": 21.21,
+      "Son_Kapanış": 815.13
     },
     {
       "Sembol": "PKX",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 8.77,
-      "Son_Kapanış": 52.95
-    },
-    {
-      "Sembol": "KTOS",
-      "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 10.94,
-      "Son_Kapanış": 48.68
+      "Dipten_Sonra_%": 8.73,
+      "Son_Kapanış": 52.93
     },
     {
       "Sembol": "UI",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 5.21,
-      "Son_Kapanış": 550.11
+      "Dipten_Sonra_%": 5.36,
+      "Son_Kapanış": 550.91
     },
     {
-      "Sembol": "CRWV",
+      "Sembol": "AEIS",
       "Dip_Tarih": "2026-07-29",
-      "Dipten_Sonra_%": 38.33,
-      "Son_Kapanış": 84.13
+      "Dipten_Sonra_%": 18.22,
+      "Son_Kapanış": 298.49
     }
   ],
-  "last_run": "2026-08-03 16:34:39"
+  "last_run": "2026-08-03 19:01:13"
 }
