@@ -19,17 +19,17 @@
       "Son_Kapanış": 15.34
     },
     {
-      "Sembol": "SNPS",
-      "Dip_Tarih": "2026-07-30",
-      "Dipten_Sonra_%": 8.47,
-      "Son_Kapanış": 403.86
-    },
-    {
       "Sembol": "BLDR",
       "Dip_Tarih": "2026-07-30",
       "Dipten_Sonra_%": 14.18,
       "Son_Kapanış": 75.37
+    },
+    {
+      "Sembol": "SNPS",
+      "Dip_Tarih": "2026-07-30",
+      "Dipten_Sonra_%": 8.47,
+      "Son_Kapanış": 403.86
     }
   ],
-  "last_run": "2026-08-05 02:33:08"
+  "last_run": "2026-08-05 05:52:33"
 }
