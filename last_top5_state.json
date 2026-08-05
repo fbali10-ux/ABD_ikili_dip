@@ -3,33 +3,33 @@
     {
       "Sembol": "WLK",
       "Dip_Tarih": "2026-08-03",
-      "Dipten_Sonra_%": 15.37,
-      "Son_Kapanış": 80.63
-    },
-    {
-      "Sembol": "QXO",
-      "Dip_Tarih": "2026-07-31",
-      "Dipten_Sonra_%": 15.34,
-      "Son_Kapanış": 15.34
+      "Dipten_Sonra_%": 8.13,
+      "Son_Kapanış": 75.57
     },
     {
       "Sembol": "AG",
       "Dip_Tarih": "2026-07-31",
-      "Dipten_Sonra_%": 9.71,
-      "Son_Kapanış": 16.49
+      "Dipten_Sonra_%": 17.76,
+      "Son_Kapanış": 17.7
     },
     {
-      "Sembol": "BLDR",
-      "Dip_Tarih": "2026-07-30",
-      "Dipten_Sonra_%": 14.18,
-      "Son_Kapanış": 75.37
+      "Sembol": "QXO",
+      "Dip_Tarih": "2026-07-31",
+      "Dipten_Sonra_%": 15.71,
+      "Son_Kapanış": 15.39
     },
     {
-      "Sembol": "SNPS",
-      "Dip_Tarih": "2026-07-30",
-      "Dipten_Sonra_%": 8.47,
-      "Son_Kapanış": 403.86
+      "Sembol": "AGI",
+      "Dip_Tarih": "2026-07-31",
+      "Dipten_Sonra_%": 11.1,
+      "Son_Kapanış": 30.92
+    },
+    {
+      "Sembol": "FIGR",
+      "Dip_Tarih": "2026-07-31",
+      "Dipten_Sonra_%": 16.38,
+      "Son_Kapanış": 28.99
     }
   ],
-  "last_run": "2026-08-05 11:28:37"
+  "last_run": "2026-08-05 14:12:52"
 }
