@@ -7,12 +7,6 @@
       "Son_Kapanış": 78.74
     },
     {
-      "Sembol": "AGI",
-      "Dip_Tarih": "2026-07-31",
-      "Dipten_Sonra_%": 12.36,
-      "Son_Kapanış": 31.27
-    },
-    {
       "Sembol": "QXO",
       "Dip_Tarih": "2026-07-31",
       "Dipten_Sonra_%": 19.55,
@@ -29,7 +23,13 @@
       "Dip_Tarih": "2026-07-31",
       "Dipten_Sonra_%": 17.17,
       "Son_Kapanış": 17.61
+    },
+    {
+      "Sembol": "AGI",
+      "Dip_Tarih": "2026-07-31",
+      "Dipten_Sonra_%": 12.36,
+      "Son_Kapanış": 31.27
     }
   ],
-  "last_run": "2026-08-06 00:09:44"
+  "last_run": "2026-08-06 03:24:54"
 }
