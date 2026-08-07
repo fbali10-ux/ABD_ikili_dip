@@ -7,10 +7,10 @@
       "Son_Kapanış": 77.47
     },
     {
-      "Sembol": "QXO",
+      "Sembol": "AG",
       "Dip_Tarih": "2026-07-31",
-      "Dipten_Sonra_%": 14.14,
-      "Son_Kapanış": 15.18
+      "Dipten_Sonra_%": 14.97,
+      "Son_Kapanış": 17.28
     },
     {
       "Sembol": "AGI",
@@ -19,17 +19,17 @@
       "Son_Kapanış": 31.1
     },
     {
-      "Sembol": "AG",
-      "Dip_Tarih": "2026-07-31",
-      "Dipten_Sonra_%": 14.97,
-      "Son_Kapanış": 17.28
-    },
-    {
       "Sembol": "FIGR",
       "Dip_Tarih": "2026-07-31",
       "Dipten_Sonra_%": 14.81,
       "Son_Kapanış": 28.6
+    },
+    {
+      "Sembol": "QXO",
+      "Dip_Tarih": "2026-07-31",
+      "Dipten_Sonra_%": 14.14,
+      "Son_Kapanış": 15.18
     }
   ],
-  "last_run": "2026-08-07 10:11:33"
+  "last_run": "2026-08-07 11:09:01"
 }
