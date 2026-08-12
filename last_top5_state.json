@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "CRCL",
-      "Dip_Tarih": "2026-08-03",
-      "Dipten_Sonra_%": 17.15,
-      "Son_Kapanış": 70.7
-    },
-    {
       "Sembol": "WLK",
       "Dip_Tarih": "2026-08-03",
-      "Dipten_Sonra_%": 12.1,
-      "Son_Kapanış": 78.35
+      "Dipten_Sonra_%": 12.69,
+      "Son_Kapanış": 78.76
     },
     {
-      "Sembol": "AG",
-      "Dip_Tarih": "2026-07-31",
-      "Dipten_Sonra_%": 27.64,
-      "Son_Kapanış": 19.18
+      "Sembol": "CRCL",
+      "Dip_Tarih": "2026-08-03",
+      "Dipten_Sonra_%": 17.73,
+      "Son_Kapanış": 71.05
     },
     {
       "Sembol": "NXT",
       "Dip_Tarih": "2026-07-31",
-      "Dipten_Sonra_%": 14.87,
-      "Son_Kapanış": 103.23
+      "Dipten_Sonra_%": 15.6,
+      "Son_Kapanış": 103.89
     },
     {
-      "Sembol": "QXO",
+      "Sembol": "AGI",
       "Dip_Tarih": "2026-07-31",
-      "Dipten_Sonra_%": 12.23,
-      "Son_Kapanış": 14.93
+      "Dipten_Sonra_%": 21.2,
+      "Son_Kapanış": 33.73
+    },
+    {
+      "Sembol": "AG",
+      "Dip_Tarih": "2026-07-31",
+      "Dipten_Sonra_%": 28.48,
+      "Son_Kapanış": 19.31
     }
   ],
-  "last_run": "2026-08-12 18:08:50"
+  "last_run": "2026-08-12 19:22:18"
 }
