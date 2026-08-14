@@ -19,17 +19,17 @@
       "Son_Kapanış": 28.78
     },
     {
-      "Sembol": "WLK",
-      "Dip_Tarih": "2026-08-03",
-      "Dipten_Sonra_%": 14.74,
-      "Son_Kapanış": 80.19
-    },
-    {
       "Sembol": "CRCL",
       "Dip_Tarih": "2026-08-03",
       "Dipten_Sonra_%": 24.9,
       "Son_Kapanış": 75.38
+    },
+    {
+      "Sembol": "WLK",
+      "Dip_Tarih": "2026-08-03",
+      "Dipten_Sonra_%": 14.74,
+      "Son_Kapanış": 80.19
     }
   ],
-  "last_run": "2026-08-14 11:10:18"
+  "last_run": "2026-08-14 13:11:40"
 }
