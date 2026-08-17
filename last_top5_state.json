@@ -13,23 +13,23 @@
       "Son_Kapanış": 110.52
     },
     {
-      "Sembol": "CELH",
-      "Dip_Tarih": "2026-08-06",
-      "Dipten_Sonra_%": 22.38,
-      "Son_Kapanış": 29.09
-    },
-    {
       "Sembol": "LUMN",
       "Dip_Tarih": "2026-08-06",
       "Dipten_Sonra_%": 13.9,
       "Son_Kapanış": 6.72
     },
     {
-      "Sembol": "CRCL",
+      "Sembol": "CELH",
+      "Dip_Tarih": "2026-08-06",
+      "Dipten_Sonra_%": 22.38,
+      "Son_Kapanış": 29.09
+    },
+    {
+      "Sembol": "WLK",
       "Dip_Tarih": "2026-08-03",
-      "Dipten_Sonra_%": 18.64,
-      "Son_Kapanış": 71.6
+      "Dipten_Sonra_%": 13.82,
+      "Son_Kapanış": 79.55
     }
   ],
-  "last_run": "2026-08-17 06:58:51"
+  "last_run": "2026-08-17 08:03:33"
 }
