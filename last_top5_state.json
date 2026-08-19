@@ -3,33 +3,33 @@
     {
       "Sembol": "PPC",
       "Dip_Tarih": "2026-08-10",
-      "Dipten_Sonra_%": 7.47,
-      "Son_Kapanış": 28.49
+      "Dipten_Sonra_%": 8.53,
+      "Son_Kapanış": 28.77
     },
     {
       "Sembol": "WEC",
       "Dip_Tarih": "2026-08-10",
-      "Dipten_Sonra_%": 4.65,
-      "Son_Kapanış": 111.05
-    },
-    {
-      "Sembol": "EIX",
-      "Dip_Tarih": "2026-08-06",
-      "Dipten_Sonra_%": 9.61,
-      "Son_Kapanış": 73.69
+      "Dipten_Sonra_%": 4.12,
+      "Son_Kapanış": 110.49
     },
     {
       "Sembol": "CELH",
       "Dip_Tarih": "2026-08-06",
-      "Dipten_Sonra_%": 25.79,
-      "Son_Kapanış": 29.9
+      "Dipten_Sonra_%": 26.0,
+      "Son_Kapanış": 29.95
     },
     {
-      "Sembol": "WLK",
-      "Dip_Tarih": "2026-08-03",
-      "Dipten_Sonra_%": 10.92,
-      "Son_Kapanış": 77.52
+      "Sembol": "LUMN",
+      "Dip_Tarih": "2026-08-06",
+      "Dipten_Sonra_%": 11.53,
+      "Son_Kapanış": 6.58
+    },
+    {
+      "Sembol": "MTZ",
+      "Dip_Tarih": "2026-08-06",
+      "Dipten_Sonra_%": 16.95,
+      "Son_Kapanış": 302.48
     }
   ],
-  "last_run": "2026-08-19 03:53:00"
+  "last_run": "2026-08-19 04:45:18"
 }
