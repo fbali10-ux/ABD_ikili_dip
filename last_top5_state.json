@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "VICI",
-      "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 3.05,
-      "Son_Kapanış": 26.7
-    },
-    {
       "Sembol": "GLPI",
       "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 4.43,
-      "Son_Kapanış": 43.94
+      "Dipten_Sonra_%": 4.57,
+      "Son_Kapanış": 44.01
+    },
+    {
+      "Sembol": "VICI",
+      "Dip_Tarih": "2026-08-18",
+      "Dipten_Sonra_%": 3.42,
+      "Son_Kapanış": 26.8
     },
     {
       "Sembol": "TU",
       "Dip_Tarih": "2026-08-12",
-      "Dipten_Sonra_%": 4.57,
-      "Son_Kapanış": 9.95
-    },
-    {
-      "Sembol": "PPC",
-      "Dip_Tarih": "2026-08-10",
-      "Dipten_Sonra_%": 18.03,
-      "Son_Kapanış": 31.29
+      "Dipten_Sonra_%": 4.67,
+      "Son_Kapanış": 9.97
     },
     {
       "Sembol": "CCI",
       "Dip_Tarih": "2026-08-10",
-      "Dipten_Sonra_%": 3.27,
-      "Son_Kapanış": 76.02
+      "Dipten_Sonra_%": 3.29,
+      "Son_Kapanış": 76.03
+    },
+    {
+      "Sembol": "PPC",
+      "Dip_Tarih": "2026-08-10",
+      "Dipten_Sonra_%": 17.33,
+      "Son_Kapanış": 31.1
     }
   ],
-  "last_run": "2026-08-20 17:36:10"
+  "last_run": "2026-08-20 18:45:46"
 }
