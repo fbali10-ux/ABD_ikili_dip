@@ -13,16 +13,16 @@
       "Son_Kapanış": 31.28
     },
     {
-      "Sembol": "EIX",
-      "Dip_Tarih": "2026-08-06",
-      "Dipten_Sonra_%": 9.24,
-      "Son_Kapanış": 73.44
-    },
-    {
       "Sembol": "CELH",
       "Dip_Tarih": "2026-08-06",
       "Dipten_Sonra_%": 35.72,
       "Son_Kapanış": 32.26
+    },
+    {
+      "Sembol": "EIX",
+      "Dip_Tarih": "2026-08-06",
+      "Dipten_Sonra_%": 9.24,
+      "Son_Kapanış": 73.44
     },
     {
       "Sembol": "PODD",
@@ -31,5 +31,5 @@
       "Son_Kapanış": 151.51
     }
   ],
-  "last_run": "2026-08-20 03:03:51"
+  "last_run": "2026-08-20 03:52:58"
 }
