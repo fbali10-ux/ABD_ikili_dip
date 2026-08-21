@@ -3,33 +3,33 @@
     {
       "Sembol": "AGCO",
       "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 9.15,
-      "Son_Kapanış": 107.46
+      "Dipten_Sonra_%": 8.8,
+      "Son_Kapanış": 107.11
     },
     {
       "Sembol": "VALE",
       "Dip_Tarih": "2026-08-14",
-      "Dipten_Sonra_%": 7.08,
-      "Son_Kapanış": 14.6
+      "Dipten_Sonra_%": 6.57,
+      "Son_Kapanış": 14.52
     },
     {
       "Sembol": "TU",
       "Dip_Tarih": "2026-08-12",
-      "Dipten_Sonra_%": 4.94,
-      "Son_Kapanış": 9.99
+      "Dipten_Sonra_%": 4.78,
+      "Son_Kapanış": 9.98
     },
     {
       "Sembol": "YUM",
       "Dip_Tarih": "2026-08-11",
-      "Dipten_Sonra_%": 4.6,
-      "Son_Kapanış": 151.41
+      "Dipten_Sonra_%": 4.77,
+      "Son_Kapanış": 151.65
     },
     {
       "Sembol": "PPC",
       "Dip_Tarih": "2026-08-10",
-      "Dipten_Sonra_%": 20.97,
-      "Son_Kapanış": 32.07
+      "Dipten_Sonra_%": 21.12,
+      "Son_Kapanış": 32.11
     }
   ],
-  "last_run": "2026-08-21 18:42:23"
+  "last_run": "2026-08-21 19:33:40"
 }
