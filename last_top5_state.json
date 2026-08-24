@@ -3,33 +3,33 @@
     {
       "Sembol": "DLR-PK",
       "Dip_Tarih": "2026-08-19",
-      "Dipten_Sonra_%": 3.09,
-      "Son_Kapanış": 22.38
+      "Dipten_Sonra_%": 3.6,
+      "Son_Kapanış": 22.49
     },
     {
       "Sembol": "AGCO",
       "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 11.17,
-      "Son_Kapanış": 109.45
+      "Dipten_Sonra_%": 11.86,
+      "Son_Kapanış": 110.13
     },
     {
       "Sembol": "VICI",
       "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 3.05,
-      "Son_Kapanış": 26.7
+      "Dipten_Sonra_%": 3.36,
+      "Son_Kapanış": 26.78
     },
     {
       "Sembol": "GLPI",
       "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 4.1,
-      "Son_Kapanış": 43.81
+      "Dipten_Sonra_%": 4.4,
+      "Son_Kapanış": 43.93
     },
     {
-      "Sembol": "VALE",
-      "Dip_Tarih": "2026-08-14",
-      "Dipten_Sonra_%": 9.9,
-      "Son_Kapanış": 14.98
+      "Sembol": "LIN",
+      "Dip_Tarih": "2026-08-17",
+      "Dipten_Sonra_%": 3.31,
+      "Son_Kapanış": 490.03
     }
   ],
-  "last_run": "2026-08-24 19:39:54"
+  "last_run": "2026-08-24 20:38:34"
 }
