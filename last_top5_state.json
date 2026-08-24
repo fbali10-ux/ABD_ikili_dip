@@ -3,33 +3,33 @@
     {
       "Sembol": "AGCO",
       "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 10.78,
-      "Son_Kapanış": 109.07
-    },
-    {
-      "Sembol": "GLPI",
-      "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 4.4,
-      "Son_Kapanış": 43.93
+      "Dipten_Sonra_%": 10.01,
+      "Son_Kapanış": 108.31
     },
     {
       "Sembol": "VICI",
       "Dip_Tarih": "2026-08-18",
-      "Dipten_Sonra_%": 3.26,
-      "Son_Kapanış": 26.75
+      "Dipten_Sonra_%": 3.38,
+      "Son_Kapanış": 26.78
+    },
+    {
+      "Sembol": "GLPI",
+      "Dip_Tarih": "2026-08-18",
+      "Dipten_Sonra_%": 4.31,
+      "Son_Kapanış": 43.9
     },
     {
       "Sembol": "VALE",
       "Dip_Tarih": "2026-08-14",
-      "Dipten_Sonra_%": 10.86,
-      "Son_Kapanış": 15.11
+      "Dipten_Sonra_%": 11.19,
+      "Son_Kapanış": 15.15
     },
     {
       "Sembol": "YUM",
       "Dip_Tarih": "2026-08-11",
-      "Dipten_Sonra_%": 8.46,
-      "Son_Kapanış": 156.99
+      "Dipten_Sonra_%": 8.69,
+      "Son_Kapanış": 157.32
     }
   ],
-  "last_run": "2026-08-24 15:46:14"
+  "last_run": "2026-08-24 16:44:10"
 }
