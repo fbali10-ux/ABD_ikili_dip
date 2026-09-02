@@ -3,8 +3,8 @@
     {
       "Sembol": "GME",
       "Dip_Tarih": "2026-08-28",
-      "Dipten_Sonra_%": 5.26,
-      "Son_Kapanış": 18.81
+      "Dipten_Sonra_%": 5.4,
+      "Son_Kapanış": 18.83
     },
     {
       "Sembol": "BAC-PE",
@@ -15,21 +15,21 @@
     {
       "Sembol": "SOLS",
       "Dip_Tarih": "2026-08-24",
-      "Dipten_Sonra_%": 11.51,
-      "Son_Kapanış": 61.73
+      "Dipten_Sonra_%": 10.57,
+      "Son_Kapanış": 61.21
     },
     {
       "Sembol": "LUMN",
       "Dip_Tarih": "2026-08-24",
-      "Dipten_Sonra_%": 12.52,
-      "Son_Kapanış": 6.38
+      "Dipten_Sonra_%": 18.61,
+      "Son_Kapanış": 6.72
     },
     {
       "Sembol": "SMMT",
       "Dip_Tarih": "2026-08-20",
-      "Dipten_Sonra_%": 13.92,
-      "Son_Kapanış": 14.16
+      "Dipten_Sonra_%": 13.76,
+      "Son_Kapanış": 14.14
     }
   ],
-  "last_run": "2026-09-02 10:47:54"
+  "last_run": "2026-09-02 15:07:37"
 }
