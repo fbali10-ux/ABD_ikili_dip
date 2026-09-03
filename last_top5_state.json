@@ -7,16 +7,16 @@
       "Son_Kapanış": 18.97
     },
     {
-      "Sembol": "BAC-PE",
-      "Dip_Tarih": "2026-08-26",
-      "Dipten_Sonra_%": 3.61,
-      "Son_Kapanış": 18.65
-    },
-    {
       "Sembol": "TTD",
       "Dip_Tarih": "2026-08-26",
       "Dipten_Sonra_%": 11.67,
       "Son_Kapanış": 14.55
+    },
+    {
+      "Sembol": "BAC-PE",
+      "Dip_Tarih": "2026-08-26",
+      "Dipten_Sonra_%": 3.61,
+      "Son_Kapanış": 18.65
     },
     {
       "Sembol": "SOLS",
@@ -31,5 +31,5 @@
       "Son_Kapanış": 6.81
     }
   ],
-  "last_run": "2026-09-03 03:06:53"
+  "last_run": "2026-09-03 08:04:48"
 }
