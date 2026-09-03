@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "GME",
-      "Dip_Tarih": "2026-08-28",
-      "Dipten_Sonra_%": 6.16,
-      "Son_Kapanış": 18.97
+      "Sembol": "SYM",
+      "Dip_Tarih": "2026-09-01",
+      "Dipten_Sonra_%": 7.14,
+      "Son_Kapanış": 40.95
     },
     {
-      "Sembol": "BAC-PE",
-      "Dip_Tarih": "2026-08-26",
-      "Dipten_Sonra_%": 3.61,
-      "Son_Kapanış": 18.65
+      "Sembol": "GME",
+      "Dip_Tarih": "2026-08-28",
+      "Dipten_Sonra_%": 7.41,
+      "Son_Kapanış": 19.19
+    },
+    {
+      "Sembol": "WMT",
+      "Dip_Tarih": "2026-08-27",
+      "Dipten_Sonra_%": 6.42,
+      "Son_Kapanış": 109.22
     },
     {
       "Sembol": "TTD",
       "Dip_Tarih": "2026-08-26",
-      "Dipten_Sonra_%": 11.67,
-      "Son_Kapanış": 14.55
+      "Dipten_Sonra_%": 12.97,
+      "Son_Kapanış": 14.72
     },
     {
       "Sembol": "SOLS",
       "Dip_Tarih": "2026-08-24",
-      "Dipten_Sonra_%": 10.17,
-      "Son_Kapanış": 60.99
-    },
-    {
-      "Sembol": "LUMN",
-      "Dip_Tarih": "2026-08-24",
-      "Dipten_Sonra_%": 20.11,
-      "Son_Kapanış": 6.81
+      "Dipten_Sonra_%": 11.6,
+      "Son_Kapanış": 61.78
     }
   ],
-  "last_run": "2026-09-03 12:46:44"
+  "last_run": "2026-09-03 17:07:04"
 }
