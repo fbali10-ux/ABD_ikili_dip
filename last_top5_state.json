@@ -3,33 +3,33 @@
     {
       "Sembol": "RBA",
       "Dip_Tarih": "2026-09-10",
-      "Dipten_Sonra_%": 7.17,
-      "Son_Kapanış": 86.32
+      "Dipten_Sonra_%": 6.97,
+      "Son_Kapanış": 86.15
     },
     {
       "Sembol": "BTI",
       "Dip_Tarih": "2026-09-09",
-      "Dipten_Sonra_%": 4.28,
-      "Son_Kapanış": 56.65
+      "Dipten_Sonra_%": 3.99,
+      "Son_Kapanış": 56.5
     },
     {
       "Sembol": "SYM",
       "Dip_Tarih": "2026-09-01",
-      "Dipten_Sonra_%": 10.96,
-      "Son_Kapanış": 42.41
+      "Dipten_Sonra_%": 11.9,
+      "Son_Kapanış": 42.77
+    },
+    {
+      "Sembol": "ESLT",
+      "Dip_Tarih": "2026-08-31",
+      "Dipten_Sonra_%": 4.46,
+      "Son_Kapanış": 731.75
     },
     {
       "Sembol": "GME",
       "Dip_Tarih": "2026-08-28",
-      "Dipten_Sonra_%": 18.86,
-      "Son_Kapanış": 21.24
-    },
-    {
-      "Sembol": "WMT",
-      "Dip_Tarih": "2026-08-27",
-      "Dipten_Sonra_%": 5.73,
-      "Son_Kapanış": 108.51
+      "Dipten_Sonra_%": 20.03,
+      "Son_Kapanış": 21.45
     }
   ],
-  "last_run": "2026-09-15 16:26:38"
+  "last_run": "2026-09-15 20:08:25"
 }
