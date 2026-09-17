@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "RBA",
+      "Sembol": "GSK",
       "Dip_Tarih": "2026-09-10",
-      "Dipten_Sonra_%": 6.92,
-      "Son_Kapanış": 86.11
+      "Dipten_Sonra_%": 4.51,
+      "Son_Kapanış": 50.29
     },
     {
-      "Sembol": "BTI",
+      "Sembol": "UI",
       "Dip_Tarih": "2026-09-09",
-      "Dipten_Sonra_%": 4.03,
-      "Son_Kapanış": 56.52
+      "Dipten_Sonra_%": 9.56,
+      "Son_Kapanış": 570.37
     },
     {
       "Sembol": "SYM",
       "Dip_Tarih": "2026-09-01",
-      "Dipten_Sonra_%": 11.9,
-      "Son_Kapanış": 42.77
+      "Dipten_Sonra_%": 12.79,
+      "Son_Kapanış": 43.11
     },
     {
       "Sembol": "ESLT",
       "Dip_Tarih": "2026-08-31",
-      "Dipten_Sonra_%": 4.46,
-      "Son_Kapanış": 731.75
+      "Dipten_Sonra_%": 5.37,
+      "Son_Kapanış": 738.16
     },
     {
       "Sembol": "GME",
       "Dip_Tarih": "2026-08-28",
-      "Dipten_Sonra_%": 19.98,
-      "Son_Kapanış": 21.44
+      "Dipten_Sonra_%": 23.0,
+      "Son_Kapanış": 21.98
     }
   ],
-  "last_run": "2026-09-17 00:15:50"
+  "last_run": "2026-09-17 05:55:02"
 }
