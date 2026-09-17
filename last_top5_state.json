@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "OKLO",
-      "Dip_Tarih": "2026-09-16",
-      "Dipten_Sonra_%": 11.93,
-      "Son_Kapanış": 39.87
-    },
-    {
       "Sembol": "GNRC",
       "Dip_Tarih": "2026-09-15",
-      "Dipten_Sonra_%": 18.54,
-      "Son_Kapanış": 207.48
+      "Dipten_Sonra_%": 18.4,
+      "Son_Kapanış": 207.23
     },
     {
       "Sembol": "FTAI",
       "Dip_Tarih": "2026-09-14",
-      "Dipten_Sonra_%": 11.45,
-      "Son_Kapanış": 196.16
+      "Dipten_Sonra_%": 10.84,
+      "Son_Kapanış": 195.07
     },
     {
       "Sembol": "GSK",
       "Dip_Tarih": "2026-09-10",
-      "Dipten_Sonra_%": 5.66,
-      "Son_Kapanış": 50.85
+      "Dipten_Sonra_%": 6.11,
+      "Son_Kapanış": 51.06
     },
     {
       "Sembol": "UI",
       "Dip_Tarih": "2026-09-09",
-      "Dipten_Sonra_%": 13.5,
-      "Son_Kapanış": 590.84
+      "Dipten_Sonra_%": 14.57,
+      "Son_Kapanış": 596.44
+    },
+    {
+      "Sembol": "SYM",
+      "Dip_Tarih": "2026-09-01",
+      "Dipten_Sonra_%": 16.72,
+      "Son_Kapanış": 44.61
     }
   ],
-  "last_run": "2026-09-17 19:41:42"
+  "last_run": "2026-09-17 22:48:59"
 }
