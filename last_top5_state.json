@@ -3,33 +3,33 @@
     {
       "Sembol": "KMI",
       "Dip_Tarih": "2026-09-16",
-      "Dipten_Sonra_%": 4.27,
-      "Son_Kapanış": 32.04
+      "Dipten_Sonra_%": 3.61,
+      "Son_Kapanış": 31.84
     },
     {
       "Sembol": "GNRC",
       "Dip_Tarih": "2026-09-15",
-      "Dipten_Sonra_%": 17.22,
-      "Son_Kapanış": 205.17
+      "Dipten_Sonra_%": 18.52,
+      "Son_Kapanış": 207.44
     },
     {
       "Sembol": "RBC",
       "Dip_Tarih": "2026-09-10",
-      "Dipten_Sonra_%": 4.65,
-      "Son_Kapanış": 500.31
+      "Dipten_Sonra_%": 4.8,
+      "Son_Kapanış": 501.01
+    },
+    {
+      "Sembol": "LI",
+      "Dip_Tarih": "2026-09-10",
+      "Dipten_Sonra_%": 4.21,
+      "Son_Kapanış": 12.14
     },
     {
       "Sembol": "HDB",
       "Dip_Tarih": "2026-09-10",
-      "Dipten_Sonra_%": 5.75,
-      "Son_Kapanış": 23.09
-    },
-    {
-      "Sembol": "UI",
-      "Dip_Tarih": "2026-09-09",
-      "Dipten_Sonra_%": 12.23,
-      "Son_Kapanış": 584.26
+      "Dipten_Sonra_%": 6.04,
+      "Son_Kapanış": 23.16
     }
   ],
-  "last_run": "2026-09-18 19:36:10"
+  "last_run": "2026-09-18 22:26:40"
 }
