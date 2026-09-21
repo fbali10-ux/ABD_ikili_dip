@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "PAC",
+      "Dip_Tarih": "2026-09-17",
+      "Dipten_Sonra_%": 4.06,
+      "Son_Kapanış": 207.66
+    },
+    {
       "Sembol": "OKLO",
       "Dip_Tarih": "2026-09-16",
-      "Dipten_Sonra_%": 12.07,
-      "Son_Kapanış": 39.92
+      "Dipten_Sonra_%": 13.08,
+      "Son_Kapanış": 40.28
     },
     {
       "Sembol": "KMI",
       "Dip_Tarih": "2026-09-16",
-      "Dipten_Sonra_%": 3.14,
-      "Son_Kapanış": 31.69
-    },
-    {
-      "Sembol": "GNRC",
-      "Dip_Tarih": "2026-09-15",
-      "Dipten_Sonra_%": 17.77,
-      "Son_Kapanış": 206.13
+      "Dipten_Sonra_%": 3.45,
+      "Son_Kapanış": 31.79
     },
     {
       "Sembol": "GFS",
       "Dip_Tarih": "2026-09-15",
-      "Dipten_Sonra_%": 13.85,
-      "Son_Kapanış": 48.67
+      "Dipten_Sonra_%": 12.69,
+      "Son_Kapanış": 48.17
     },
     {
-      "Sembol": "RMBS",
-      "Dip_Tarih": "2026-09-14",
-      "Dipten_Sonra_%": 12.79,
-      "Son_Kapanış": 90.67
+      "Sembol": "SNPS",
+      "Dip_Tarih": "2026-09-15",
+      "Dipten_Sonra_%": 9.51,
+      "Son_Kapanış": 402.66
     }
   ],
-  "last_run": "2026-09-21 13:44:47"
+  "last_run": "2026-09-21 19:12:21"
 }
