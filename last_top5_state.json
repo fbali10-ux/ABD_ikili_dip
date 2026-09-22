@@ -7,16 +7,16 @@
       "Son_Kapanış": 208.0
     },
     {
-      "Sembol": "OKLO",
-      "Dip_Tarih": "2026-09-16",
-      "Dipten_Sonra_%": 12.8,
-      "Son_Kapanış": 40.18
-    },
-    {
       "Sembol": "KMI",
       "Dip_Tarih": "2026-09-16",
       "Dipten_Sonra_%": 3.22,
       "Son_Kapanış": 31.72
+    },
+    {
+      "Sembol": "OKLO",
+      "Dip_Tarih": "2026-09-16",
+      "Dipten_Sonra_%": 12.8,
+      "Son_Kapanış": 40.18
     },
     {
       "Sembol": "SNPS",
@@ -31,5 +31,5 @@
       "Son_Kapanış": 204.96
     }
   ],
-  "last_run": "2026-09-22 07:27:32"
+  "last_run": "2026-09-22 13:18:09"
 }
