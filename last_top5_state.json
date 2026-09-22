@@ -7,29 +7,29 @@
       "Son_Kapanış": 208.0
     },
     {
-      "Sembol": "KMI",
-      "Dip_Tarih": "2026-09-16",
-      "Dipten_Sonra_%": 3.22,
-      "Son_Kapanış": 31.72
-    },
-    {
       "Sembol": "OKLO",
       "Dip_Tarih": "2026-09-16",
       "Dipten_Sonra_%": 12.8,
       "Son_Kapanış": 40.18
     },
     {
-      "Sembol": "GNRC",
-      "Dip_Tarih": "2026-09-15",
-      "Dipten_Sonra_%": 17.1,
-      "Son_Kapanış": 204.96
+      "Sembol": "KMI",
+      "Dip_Tarih": "2026-09-16",
+      "Dipten_Sonra_%": 3.22,
+      "Son_Kapanış": 31.72
     },
     {
       "Sembol": "SNPS",
       "Dip_Tarih": "2026-09-15",
       "Dipten_Sonra_%": 9.29,
       "Son_Kapanış": 401.85
+    },
+    {
+      "Sembol": "GNRC",
+      "Dip_Tarih": "2026-09-15",
+      "Dipten_Sonra_%": 17.1,
+      "Son_Kapanış": 204.96
     }
   ],
-  "last_run": "2026-09-22 01:45:45"
+  "last_run": "2026-09-22 07:27:32"
 }
