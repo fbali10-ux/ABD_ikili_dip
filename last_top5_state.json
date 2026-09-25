@@ -7,12 +7,6 @@
       "Son_Kapanış": 79.88
     },
     {
-      "Sembol": "MDLN",
-      "Dip_Tarih": "2026-09-18",
-      "Dipten_Sonra_%": 9.54,
-      "Son_Kapanış": 34.66
-    },
-    {
       "Sembol": "LEN",
       "Dip_Tarih": "2026-09-18",
       "Dipten_Sonra_%": 6.59,
@@ -25,11 +19,17 @@
       "Son_Kapanış": 8.34
     },
     {
+      "Sembol": "MDLN",
+      "Dip_Tarih": "2026-09-18",
+      "Dipten_Sonra_%": 9.54,
+      "Son_Kapanış": 34.66
+    },
+    {
       "Sembol": "PAC",
       "Dip_Tarih": "2026-09-17",
       "Dipten_Sonra_%": 5.94,
       "Son_Kapanış": 211.41
     }
   ],
-  "last_run": "2026-09-25 05:58:00"
+  "last_run": "2026-09-25 11:19:06"
 }
