@@ -3,33 +3,33 @@
     {
       "Sembol": "NXT",
       "Dip_Tarih": "2026-09-30",
-      "Dipten_Sonra_%": 6.48,
-      "Son_Kapanış": 82.98
+      "Dipten_Sonra_%": 8.17,
+      "Son_Kapanış": 84.3
     },
     {
-      "Sembol": "JBL",
+      "Sembol": "KMI",
       "Dip_Tarih": "2026-09-30",
-      "Dipten_Sonra_%": 7.32,
-      "Son_Kapanış": 307.87
-    },
-    {
-      "Sembol": "WIT",
-      "Dip_Tarih": "2026-09-29",
-      "Dipten_Sonra_%": 7.45,
-      "Son_Kapanış": 1.73
+      "Dipten_Sonra_%": 3.05,
+      "Son_Kapanış": 31.07
     },
     {
       "Sembol": "VNO-PL",
       "Dip_Tarih": "2026-09-29",
-      "Dipten_Sonra_%": 5.11,
-      "Son_Kapanış": 16.99
+      "Dipten_Sonra_%": 4.83,
+      "Son_Kapanış": 16.94
+    },
+    {
+      "Sembol": "WIT",
+      "Dip_Tarih": "2026-09-29",
+      "Dipten_Sonra_%": 6.83,
+      "Son_Kapanış": 1.72
     },
     {
       "Sembol": "VNO-PM",
       "Dip_Tarih": "2026-09-28",
-      "Dipten_Sonra_%": 5.82,
-      "Son_Kapanış": 17.1
+      "Dipten_Sonra_%": 5.38,
+      "Son_Kapanış": 17.03
     }
   ],
-  "last_run": "2026-10-02 16:17:35"
+  "last_run": "2026-10-02 21:17:50"
 }
