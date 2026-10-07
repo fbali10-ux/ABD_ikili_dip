@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "AZO",
-      "Dip_Tarih": "2026-10-02",
-      "Dipten_Sonra_%": 3.33,
-      "Son_Kapanış": 2884.9
-    },
-    {
       "Sembol": "MSCI",
       "Dip_Tarih": "2026-10-02",
-      "Dipten_Sonra_%": 3.54,
-      "Son_Kapanış": 554.93
+      "Dipten_Sonra_%": 3.63,
+      "Son_Kapanış": 555.38
     },
     {
       "Sembol": "GDS",
       "Dip_Tarih": "2026-10-02",
-      "Dipten_Sonra_%": 14.56,
-      "Son_Kapanış": 31.58
+      "Dipten_Sonra_%": 14.73,
+      "Son_Kapanış": 31.63
     },
     {
       "Sembol": "NRG",
       "Dip_Tarih": "2026-10-02",
-      "Dipten_Sonra_%": 14.1,
-      "Son_Kapanış": 108.66
+      "Dipten_Sonra_%": 14.05,
+      "Son_Kapanış": 108.61
     },
     {
-      "Sembol": "SBAC",
+      "Sembol": "JBS",
       "Dip_Tarih": "2026-10-01",
-      "Dipten_Sonra_%": 8.09,
-      "Son_Kapanış": 170.81
+      "Dipten_Sonra_%": 12.71,
+      "Son_Kapanış": 12.24
+    },
+    {
+      "Sembol": "AMX",
+      "Dip_Tarih": "2026-10-01",
+      "Dipten_Sonra_%": 7.62,
+      "Son_Kapanış": 22.31
     }
   ],
-  "last_run": "2026-10-07 17:24:43"
+  "last_run": "2026-10-07 22:53:46"
 }
