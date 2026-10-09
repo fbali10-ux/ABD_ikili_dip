@@ -3,33 +3,33 @@
     {
       "Sembol": "RBA",
       "Dip_Tarih": "2026-10-07",
-      "Dipten_Sonra_%": 5.16,
-      "Son_Kapanış": 84.55
+      "Dipten_Sonra_%": 6.77,
+      "Son_Kapanış": 85.84
     },
     {
       "Sembol": "ROL",
       "Dip_Tarih": "2026-10-05",
-      "Dipten_Sonra_%": 8.1,
-      "Son_Kapanış": 32.1
-    },
-    {
-      "Sembol": "AZO",
-      "Dip_Tarih": "2026-10-02",
-      "Dipten_Sonra_%": 4.31,
-      "Son_Kapanış": 2912.5
+      "Dipten_Sonra_%": 7.71,
+      "Son_Kapanış": 31.98
     },
     {
       "Sembol": "MSCI",
       "Dip_Tarih": "2026-10-02",
-      "Dipten_Sonra_%": 5.12,
-      "Son_Kapanış": 563.4
+      "Dipten_Sonra_%": 5.44,
+      "Son_Kapanış": 565.12
     },
     {
-      "Sembol": "BTI",
+      "Sembol": "LI",
       "Dip_Tarih": "2026-10-02",
-      "Dipten_Sonra_%": 5.43,
-      "Son_Kapanış": 55.5
+      "Dipten_Sonra_%": 7.95,
+      "Son_Kapanış": 11.54
+    },
+    {
+      "Sembol": "YUMC",
+      "Dip_Tarih": "2026-10-02",
+      "Dipten_Sonra_%": 7.35,
+      "Son_Kapanış": 42.92
     }
   ],
-  "last_run": "2026-10-09 17:27:48"
+  "last_run": "2026-10-09 22:24:50"
 }
