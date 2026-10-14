@@ -3,33 +3,33 @@
     {
       "Sembol": "GMED",
       "Dip_Tarih": "2026-10-08",
-      "Dipten_Sonra_%": 4.08,
-      "Son_Kapanış": 76.32
+      "Dipten_Sonra_%": 3.97,
+      "Son_Kapanış": 76.24
     },
     {
-      "Sembol": "AOS",
+      "Sembol": "BSX",
       "Dip_Tarih": "2026-10-07",
-      "Dipten_Sonra_%": 4.61,
-      "Son_Kapanış": 57.89
-    },
-    {
-      "Sembol": "RBA",
-      "Dip_Tarih": "2026-10-07",
-      "Dipten_Sonra_%": 9.73,
-      "Son_Kapanış": 88.22
+      "Dipten_Sonra_%": 5.44,
+      "Son_Kapanış": 43.84
     },
     {
       "Sembol": "PLD",
       "Dip_Tarih": "2026-10-07",
-      "Dipten_Sonra_%": 4.91,
-      "Son_Kapanış": 133.55
+      "Dipten_Sonra_%": 4.06,
+      "Son_Kapanış": 132.47
     },
     {
-      "Sembol": "ENB",
+      "Sembol": "RBA",
       "Dip_Tarih": "2026-10-07",
-      "Dipten_Sonra_%": 3.42,
-      "Son_Kapanış": 47.46
+      "Dipten_Sonra_%": 9.2,
+      "Son_Kapanış": 87.8
+    },
+    {
+      "Sembol": "ROL",
+      "Dip_Tarih": "2026-10-05",
+      "Dipten_Sonra_%": 8.02,
+      "Son_Kapanış": 32.07
     }
   ],
-  "last_run": "2026-10-13 21:08:12"
+  "last_run": "2026-10-14 00:23:46"
 }
