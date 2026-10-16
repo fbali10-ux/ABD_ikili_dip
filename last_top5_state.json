@@ -1,22 +1,22 @@
 {
   "top5": [
     {
-      "Sembol": "MLM",
-      "Dip_Tarih": "2026-10-14",
-      "Dipten_Sonra_%": 4.27,
-      "Son_Kapanış": 491.23
-    },
-    {
       "Sembol": "KRMN",
       "Dip_Tarih": "2026-10-14",
       "Dipten_Sonra_%": 12.48,
       "Son_Kapanış": 33.9
     },
     {
-      "Sembol": "GSK",
+      "Sembol": "MLM",
+      "Dip_Tarih": "2026-10-14",
+      "Dipten_Sonra_%": 4.27,
+      "Son_Kapanış": 491.23
+    },
+    {
+      "Sembol": "BBIO",
       "Dip_Tarih": "2026-10-13",
-      "Dipten_Sonra_%": 5.94,
-      "Son_Kapanış": 49.02
+      "Dipten_Sonra_%": 6.05,
+      "Son_Kapanış": 67.13
     },
     {
       "Sembol": "TTWO",
@@ -25,11 +25,11 @@
       "Son_Kapanış": 209.38
     },
     {
-      "Sembol": "BBIO",
+      "Sembol": "GSK",
       "Dip_Tarih": "2026-10-13",
-      "Dipten_Sonra_%": 6.05,
-      "Son_Kapanış": 67.13
+      "Dipten_Sonra_%": 5.94,
+      "Son_Kapanış": 49.02
     }
   ],
-  "last_run": "2026-10-16 05:35:57"
+  "last_run": "2026-10-16 10:52:12"
 }
