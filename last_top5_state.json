@@ -3,33 +3,33 @@
     {
       "Sembol": "EPD",
       "Dip_Tarih": "2026-10-15",
-      "Dipten_Sonra_%": 3.51,
-      "Son_Kapanış": 36.82
+      "Dipten_Sonra_%": 3.4,
+      "Son_Kapanış": 36.78
     },
     {
-      "Sembol": "CPRT",
+      "Sembol": "SARO",
       "Dip_Tarih": "2026-10-14",
-      "Dipten_Sonra_%": 6.09,
-      "Son_Kapanış": 27.87
+      "Dipten_Sonra_%": 8.1,
+      "Son_Kapanış": 21.36
+    },
+    {
+      "Sembol": "KRMN",
+      "Dip_Tarih": "2026-10-14",
+      "Dipten_Sonra_%": 13.5,
+      "Son_Kapanış": 34.21
     },
     {
       "Sembol": "MLM",
       "Dip_Tarih": "2026-10-14",
-      "Dipten_Sonra_%": 6.31,
-      "Son_Kapanış": 500.84
+      "Dipten_Sonra_%": 6.11,
+      "Son_Kapanış": 499.89
     },
     {
-      "Sembol": "CRH",
+      "Sembol": "ASR",
       "Dip_Tarih": "2026-10-14",
-      "Dipten_Sonra_%": 5.59,
-      "Son_Kapanış": 83.63
-    },
-    {
-      "Sembol": "TFC",
-      "Dip_Tarih": "2026-10-14",
-      "Dipten_Sonra_%": 3.29,
-      "Son_Kapanış": 47.07
+      "Dipten_Sonra_%": 4.2,
+      "Son_Kapanış": 239.74
     }
   ],
-  "last_run": "2026-10-19 12:19:27"
+  "last_run": "2026-10-19 19:09:23"
 }
