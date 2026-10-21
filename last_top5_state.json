@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "AM",
-      "Dip_Tarih": "2026-10-15",
-      "Dipten_Sonra_%": 4.94,
-      "Son_Kapanış": 20.91
-    },
-    {
-      "Sembol": "EPD",
-      "Dip_Tarih": "2026-10-15",
-      "Dipten_Sonra_%": 3.96,
-      "Son_Kapanış": 36.98
-    },
-    {
       "Sembol": "DTM",
       "Dip_Tarih": "2026-10-15",
-      "Dipten_Sonra_%": 4.66,
-      "Son_Kapanış": 124.35
+      "Dipten_Sonra_%": 5.91,
+      "Son_Kapanış": 125.83
     },
     {
-      "Sembol": "HBAN",
+      "Sembol": "IRM",
       "Dip_Tarih": "2026-10-14",
-      "Dipten_Sonra_%": 3.68,
-      "Son_Kapanış": 15.65
+      "Dipten_Sonra_%": 4.42,
+      "Son_Kapanış": 115.76
     },
     {
-      "Sembol": "PNFP",
+      "Sembol": "CRH",
       "Dip_Tarih": "2026-10-14",
-      "Dipten_Sonra_%": 3.19,
-      "Son_Kapanış": 95.82
+      "Dipten_Sonra_%": 8.23,
+      "Son_Kapanış": 85.72
+    },
+    {
+      "Sembol": "MLM",
+      "Dip_Tarih": "2026-10-14",
+      "Dipten_Sonra_%": 7.91,
+      "Son_Kapanış": 508.39
+    },
+    {
+      "Sembol": "RYAAY",
+      "Dip_Tarih": "2026-10-14",
+      "Dipten_Sonra_%": 6.27,
+      "Son_Kapanış": 54.55
     }
   ],
-  "last_run": "2026-10-21 13:37:06"
+  "last_run": "2026-10-21 18:31:51"
 }
