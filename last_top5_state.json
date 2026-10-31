@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "KEY-PK",
-      "Dip_Tarih": "2026-10-29",
-      "Dipten_Sonra_%": 3.44,
-      "Son_Kapanış": 18.63
+      "Sembol": "JAZZ",
+      "Dip_Tarih": "2026-10-28",
+      "Dipten_Sonra_%": 5.33,
+      "Son_Kapanış": 215.98
     },
     {
-      "Sembol": "TKO",
-      "Dip_Tarih": "2026-10-26",
-      "Dipten_Sonra_%": 4.4,
-      "Son_Kapanış": 178.77
-    },
-    {
-      "Sembol": "F",
-      "Dip_Tarih": "2026-10-26",
-      "Dipten_Sonra_%": 6.74,
-      "Son_Kapanış": 12.36
+      "Sembol": "MGM",
+      "Dip_Tarih": "2026-10-28",
+      "Dipten_Sonra_%": 9.86,
+      "Son_Kapanış": 29.96
     },
     {
       "Sembol": "CVNA",
       "Dip_Tarih": "2026-10-26",
-      "Dipten_Sonra_%": 20.67,
-      "Son_Kapanış": 68.31
+      "Dipten_Sonra_%": 20.63,
+      "Son_Kapanış": 68.29
     },
     {
-      "Sembol": "RBC",
-      "Dip_Tarih": "2026-10-23",
-      "Dipten_Sonra_%": 5.03,
-      "Son_Kapanış": 495.74
+      "Sembol": "TKO",
+      "Dip_Tarih": "2026-10-26",
+      "Dipten_Sonra_%": 5.52,
+      "Son_Kapanış": 180.68
+    },
+    {
+      "Sembol": "CHTR",
+      "Dip_Tarih": "2026-10-26",
+      "Dipten_Sonra_%": 9.11,
+      "Son_Kapanış": 111.49
     }
   ],
-  "last_run": "2026-10-31 00:32:47"
+  "last_run": "2026-10-31 06:47:06"
 }
