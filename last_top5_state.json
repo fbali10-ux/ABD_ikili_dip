@@ -7,12 +7,6 @@
       "Son_Kapanış": 9.57
     },
     {
-      "Sembol": "KEY-PJ",
-      "Dip_Tarih": "2026-10-29",
-      "Dipten_Sonra_%": 3.59,
-      "Son_Kapanış": 19.05
-    },
-    {
       "Sembol": "KEY-PK",
       "Dip_Tarih": "2026-10-29",
       "Dipten_Sonra_%": 4.39,
@@ -29,7 +23,13 @@
       "Dip_Tarih": "2026-10-28",
       "Dipten_Sonra_%": 12.06,
       "Son_Kapanış": 30.56
+    },
+    {
+      "Sembol": "CBRE",
+      "Dip_Tarih": "2026-10-27",
+      "Dipten_Sonra_%": 12.41,
+      "Son_Kapanış": 136.75
     }
   ],
-  "last_run": "2026-11-03 00:39:35"
+  "last_run": "2026-11-03 07:43:51"
 }
