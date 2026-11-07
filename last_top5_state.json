@@ -1,22 +1,10 @@
 {
   "top5": [
     {
-      "Sembol": "IONQ",
-      "Dip_Tarih": "2026-11-05",
-      "Dipten_Sonra_%": 23.42,
-      "Son_Kapanış": 32.62
-    },
-    {
       "Sembol": "UI",
       "Dip_Tarih": "2026-11-05",
       "Dipten_Sonra_%": 15.29,
       "Son_Kapanış": 592.84
-    },
-    {
-      "Sembol": "TIGO",
-      "Dip_Tarih": "2026-11-04",
-      "Dipten_Sonra_%": 7.98,
-      "Son_Kapanış": 83.24
     },
     {
       "Sembol": "AGI",
@@ -29,7 +17,19 @@
       "Dip_Tarih": "2026-11-03",
       "Dipten_Sonra_%": 10.05,
       "Son_Kapanış": 99.25
+    },
+    {
+      "Sembol": "KEP",
+      "Dip_Tarih": "2026-10-30",
+      "Dipten_Sonra_%": 8.32,
+      "Son_Kapanış": 11.2
+    },
+    {
+      "Sembol": "TTWO",
+      "Dip_Tarih": "2026-10-30",
+      "Dipten_Sonra_%": 12.99,
+      "Son_Kapanış": 214.87
     }
   ],
-  "last_run": "2026-11-06 21:26:49"
+  "last_run": "2026-11-07 01:46:40"
 }
