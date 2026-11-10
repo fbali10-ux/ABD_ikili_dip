@@ -1,35 +1,35 @@
 {
   "top5": [
     {
+      "Sembol": "JBHT",
+      "Dip_Tarih": "2026-11-06",
+      "Dipten_Sonra_%": 4.02,
+      "Son_Kapanış": 226.29
+    },
+    {
       "Sembol": "GS",
       "Dip_Tarih": "2026-11-06",
-      "Dipten_Sonra_%": 4.67,
-      "Son_Kapanış": 906.22
+      "Dipten_Sonra_%": 5.06,
+      "Son_Kapanış": 909.66
+    },
+    {
+      "Sembol": "IONQ",
+      "Dip_Tarih": "2026-11-05",
+      "Dipten_Sonra_%": 31.33,
+      "Son_Kapanış": 34.71
     },
     {
       "Sembol": "ARMK",
       "Dip_Tarih": "2026-11-05",
-      "Dipten_Sonra_%": 8.83,
-      "Son_Kapanış": 54.74
+      "Dipten_Sonra_%": 8.09,
+      "Son_Kapanış": 54.37
     },
     {
-      "Sembol": "FN",
+      "Sembol": "MKSI",
       "Dip_Tarih": "2026-11-05",
-      "Dipten_Sonra_%": 24.91,
-      "Son_Kapanış": 365.94
-    },
-    {
-      "Sembol": "RKLB",
-      "Dip_Tarih": "2026-11-05",
-      "Dipten_Sonra_%": 27.98,
-      "Son_Kapanış": 58.86
-    },
-    {
-      "Sembol": "FIGR",
-      "Dip_Tarih": "2026-11-05",
-      "Dipten_Sonra_%": 17.32,
-      "Son_Kapanış": 24.52
+      "Dipten_Sonra_%": 20.08,
+      "Son_Kapanış": 212.32
     }
   ],
-  "last_run": "2026-11-10 12:15:38"
+  "last_run": "2026-11-10 20:22:01"
 }
