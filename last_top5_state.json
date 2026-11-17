@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "JBHT",
-      "Dip_Tarih": "2026-11-06",
-      "Dipten_Sonra_%": 6.24,
-      "Son_Kapanış": 231.12
-    },
-    {
       "Sembol": "KNX",
       "Dip_Tarih": "2026-11-06",
-      "Dipten_Sonra_%": 8.51,
-      "Son_Kapanış": 63.38
+      "Dipten_Sonra_%": 9.24,
+      "Son_Kapanış": 63.81
     },
     {
-      "Sembol": "SKM",
-      "Dip_Tarih": "2026-11-05",
-      "Dipten_Sonra_%": 13.61,
-      "Son_Kapanış": 33.42
+      "Sembol": "AM",
+      "Dip_Tarih": "2026-11-06",
+      "Dipten_Sonra_%": 7.48,
+      "Son_Kapanış": 20.4
     },
     {
-      "Sembol": "MPWR",
-      "Dip_Tarih": "2026-11-05",
-      "Dipten_Sonra_%": 16.43,
-      "Son_Kapanış": 1317.35
+      "Sembol": "JBHT",
+      "Dip_Tarih": "2026-11-06",
+      "Dipten_Sonra_%": 6.73,
+      "Son_Kapanış": 232.2
     },
     {
       "Sembol": "UI",
       "Dip_Tarih": "2026-11-05",
-      "Dipten_Sonra_%": 28.28,
-      "Son_Kapanış": 659.62
+      "Dipten_Sonra_%": 30.13,
+      "Son_Kapanış": 669.14
+    },
+    {
+      "Sembol": "SKM",
+      "Dip_Tarih": "2026-11-05",
+      "Dipten_Sonra_%": 13.26,
+      "Son_Kapanış": 33.32
     }
   ],
-  "last_run": "2026-11-16 19:38:40"
+  "last_run": "2026-11-17 02:55:05"
 }
