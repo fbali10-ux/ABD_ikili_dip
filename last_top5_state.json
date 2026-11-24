@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "BAC-PK",
+      "Sembol": "BNTX",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 3.4,
-      "Son_Kapanış": 20.96
+      "Dipten_Sonra_%": 7.91,
+      "Son_Kapanış": 87.36
     },
     {
-      "Sembol": "USB-PP",
+      "Sembol": "AXSM",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 3.27,
-      "Son_Kapanış": 19.6
+      "Dipten_Sonra_%": 12.74,
+      "Son_Kapanış": 145.85
     },
     {
-      "Sembol": "WFC-PY",
+      "Sembol": "SYM",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 3.26,
-      "Son_Kapanış": 20.28
+      "Dipten_Sonra_%": 23.34,
+      "Son_Kapanış": 38.36
     },
     {
-      "Sembol": "RBC",
+      "Sembol": "KLAR",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 5.26,
-      "Son_Kapanış": 482.84
+      "Dipten_Sonra_%": 13.23,
+      "Son_Kapanış": 13.6
     },
     {
-      "Sembol": "BAC-PB",
+      "Sembol": "WFC-PC",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 3.33,
-      "Son_Kapanış": 21.43
+      "Dipten_Sonra_%": 4.6,
+      "Son_Kapanış": 15.45
     }
   ],
-  "last_run": "2026-11-24 04:44:39"
+  "last_run": "2026-11-24 15:39:15"
 }
