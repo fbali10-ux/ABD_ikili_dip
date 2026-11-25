@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "WFC-PC",
-      "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 4.74,
-      "Son_Kapanış": 15.47
+      "Sembol": "EQT",
+      "Dip_Tarih": "2026-11-23",
+      "Dipten_Sonra_%": 6.58,
+      "Son_Kapanış": 51.61
     },
     {
-      "Sembol": "SYM",
-      "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 20.23,
-      "Son_Kapanış": 37.39
+      "Sembol": "EXE",
+      "Dip_Tarih": "2026-11-23",
+      "Dipten_Sonra_%": 6.65,
+      "Son_Kapanış": 86.17
     },
     {
       "Sembol": "NVR",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 7.33,
-      "Son_Kapanış": 5868.8
+      "Dipten_Sonra_%": 10.19,
+      "Son_Kapanış": 6025.25
     },
     {
-      "Sembol": "MDGL",
+      "Sembol": "SYM",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 13.37,
-      "Son_Kapanış": 429.8
+      "Dipten_Sonra_%": 22.19,
+      "Son_Kapanış": 38.0
     },
     {
-      "Sembol": "F",
+      "Sembol": "AXON",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 6.98,
-      "Son_Kapanış": 11.95
+      "Dipten_Sonra_%": 16.58,
+      "Son_Kapanış": 339.42
     }
   ],
-  "last_run": "2026-11-25 09:39:49"
+  "last_run": "2026-11-25 19:55:38"
 }
