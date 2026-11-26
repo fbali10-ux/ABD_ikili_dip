@@ -1,35 +1,35 @@
 {
   "top5": [
     {
-      "Sembol": "EQT",
+      "Sembol": "ABVX",
       "Dip_Tarih": "2026-11-23",
-      "Dipten_Sonra_%": 6.58,
-      "Son_Kapanış": 51.61
+      "Dipten_Sonra_%": 19.24,
+      "Son_Kapanış": 84.05
     },
     {
       "Sembol": "EXE",
       "Dip_Tarih": "2026-11-23",
-      "Dipten_Sonra_%": 6.65,
-      "Son_Kapanış": 86.17
+      "Dipten_Sonra_%": 7.4,
+      "Son_Kapanış": 86.77
     },
     {
-      "Sembol": "NVR",
-      "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 10.19,
-      "Son_Kapanış": 6025.25
+      "Sembol": "EQT",
+      "Dip_Tarih": "2026-11-23",
+      "Dipten_Sonra_%": 6.42,
+      "Son_Kapanış": 51.53
     },
     {
-      "Sembol": "SYM",
+      "Sembol": "NU",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 22.19,
-      "Son_Kapanış": 38.0
+      "Dipten_Sonra_%": 9.67,
+      "Son_Kapanış": 12.36
     },
     {
-      "Sembol": "AXON",
+      "Sembol": "MAA",
       "Dip_Tarih": "2026-11-20",
-      "Dipten_Sonra_%": 16.58,
-      "Son_Kapanış": 339.42
+      "Dipten_Sonra_%": 4.15,
+      "Son_Kapanış": 117.6
     }
   ],
-  "last_run": "2026-11-25 19:55:38"
+  "last_run": "2026-11-26 02:46:53"
 }
